@@ -1,0 +1,148 @@
+[
+    {
+      "file": "Evoqua-deionizer-de.ps-L.pdf",
+      "product_properties": {
+        "type": "Deionizer",
+        "material": "Stainless steel",
+        "max_pressure": "10 bar",
+        "capacity": ["2000 L", "2800 L", "4500 L", "6200 L", "7000 L", "11000 L", "15000 L"],
+        "flow_rate": ["450 L/h", "800 L/h", "1000 L/h", "2000 L/h", "2500 L/h", "3000 L/h"],
+        "resin_charge": ["13 L", "19 L", "30 L", "40 L", "50 L", "75 L", "100 L"],
+        "diameter": ["230 mm", "360 mm"],
+        "height": ["410 mm", "570 mm", "785 mm", "1025 mm", "660 mm", "980 mm", "1111 mm"],
+        "shipping_weight": ["18 kg", "24 kg", "34 kg", "48 kg", "52 kg", "68 kg", "92 kg"],
+        "connectors": ["Quick-fit couplers", "Threaded connectors"]
+      },
+      "keywords": ["deionizer", "stainless steel", "high pressure", "quick-fit couplers", "threaded connectors", "high capacity", "laboratory", "water treatment"]
+    },
+    {
+      "file": "Evoqua-labostar-pro-de-ps-0320-L.pdf",
+      "product_properties": {
+        "type": "Ultrapure Water System",
+        "model": "LaboStar PRO TWF",
+        "water_types": ["Type I", "Type III"],
+        "tank_capacity": ["7 L", "30 L", "60 L"],
+        "ultrapure_water_quality": "0.055 µS/cm",
+        "RO_water_quality": "< 0.1 µS/cm",
+        "flow_rate": ["10 L/h"],
+        "dimensions": "535 x 400 x 520 mm",
+        "weight": ["20 kg", "21.2 kg"],
+        "power_supply": "100-240 V / 50-60 Hz"
+      },
+      "keywords": ["ultrapure water", "reverse osmosis", "drinking water", "laboratory", "pre-filtration", "conductivity sensor", "sterile filter", "cost-effective"]
+    },
+    {
+      "file": "Evoqua-labostar-ro-di-de-ps-L.pdf",
+      "product_properties": {
+        "type": "Reverse Osmosis System",
+        "model": "LaboStar RO DI",
+        "water_quality": "< 0.1 µS/cm",
+        "flow_rate": ["10 L/h"],
+        "tank_capacity": ["7 L", "30 L", "60 L"],
+        "salt_retention": "96%",
+        "bacteria_retention": "99%",
+        "power_supply": "100-240 V / 50-60 Hz",
+        "dimensions": "535 x 290 x 400 mm",
+        "weight": "24 kg"
+      },
+      "keywords": ["reverse osmosis", "deionization", "lab water", "high purity", "low energy", "cost-effective", "sterile filter", "conductivity monitoring"]
+    },
+    {
+      "file": "Evoqua-protegra-cs-ro-edi-de-ps-L.pdf",
+      "product_properties": {
+        "type": "Reverse Osmosis System",
+        "model": "Protegra CS RO/EDI",
+        "water_quality": "< 0.1 µS/cm",
+        "flow_rate": ["120 L/h", "260 L/h", "500 L/h", "750 L/h"],
+        "max_pressure": "14 bar",
+        "power_supply": ["230 V / 50 Hz", "400 V / 50 Hz"],
+        "dimensions": ["1650 x 600 x 600 mm", "1650 x 600 x 750 mm"],
+        "weight": ["151 kg", "165 kg", "237 kg", "291 kg"]
+      },
+      "keywords": ["reverse osmosis", "electro-deionization", "high purity", "cost-effective", "high volume", "laboratory", "compact design", "RS 232 interface"]
+    },
+    {
+      "file": "Evoqua-ultra-clear-ro-de-ps-L.pdf",
+      "product_properties": {
+        "type": "Pure Water System",
+        "model": "Ultra Clear RO",
+        "water_quality": "< 0.1 µS/cm",
+        "flow_rate": ["20 L/h", "30 L/h", "60 L/h", "100 L/h"],
+        "salt_reduction": "98%",
+        "bacteria_retention": "99%",
+        "power_supply": "240 V / 50-60 Hz",
+        "dimensions": "530 x 340 x 420 mm",
+        "weight": ["32 kg", "33 kg", "35 kg"]
+      },
+      "keywords": ["pure water", "reverse osmosis", "high efficiency", "low energy", "laboratory", "water conservation", "storage tanks", "user-friendly"]
+    },
+    {
+      "file": "Evoqua-ultra-clear-ro-di-de-ps-L.pdf",
+      "product_properties": {
+        "type": "Ultrapure Water System",
+        "model": "Ultra Clear RO DI",
+        "water_quality": "< 0.1 µS/cm",
+        "flow_rate": ["20 L/h", "30 L/h"],
+        "salt_reduction": "98%",
+        "bacteria_retention": "99%",
+        "power_supply": "240 V / 50-60 Hz",
+        "dimensions": "530 x 340 x 420 mm",
+        "weight": ["33 kg", "34 kg"]
+      },
+      "keywords": ["ultrapure water", "reverse osmosis", "deionization", "high purity", "laboratory", "water conservation", "storage tanks", "user-friendly"]
+    },
+    {
+      "file": "Evoqua-ultra-clear-ro-edi-de-ps-L.pdf",
+      "product_properties": {
+        "type": "Pure Water System",
+        "model": "Ultra Clear RO EDI",
+        "water_quality": "< 0.07 µS/cm",
+        "flow_rate": ["10 L/h", "20 L/h", "30 L/h", "55 L/h"],
+        "power_supply": "100-240 V / 50-60 Hz",
+        "dimensions": "340 x 530 x 420 mm",
+        "weight": "35 kg"
+      },
+      "keywords": ["pure water", "reverse osmosis", "electro-deionization", "high purity", "low energy", "laboratory", "compact design", "user-friendly"]
+    },
+    {
+      "file": "Evoqua-ultra-clear-tp-en-ps-L.pdf",
+      "product_properties": {
+        "type": "Ultrapure Water System",
+        "model": "Ultra Clear TP ED",
+        "water_quality": "0.055 µS/cm",
+        "flow_rate": "2 L/min",
+        "tank_capacity": ["30 L", "60 L", "80 L"],
+        "power_supply": "100-240 V / 50-60 Hz",
+        "dimensions": ["340 x 535 x 550 mm", "300 x 770 x 310 mm", "560 x 770 x 310 mm", "800 x 350 x 500 mm"],
+        "weight": ["23 kg", "30.5 kg", "31.5 kg", "33 kg", "34 kg", "47 kg"]
+      },
+      "keywords": ["ultrapure water", "electronic dispenser", "high precision", "volume-controlled dispensing", "laboratory", "easy installation", "touch display", "long service life"]
+    },
+    {
+      "file": "EWS-AS3020-L.pdf",
+      "product_properties": {
+        "type": "Cooling Tower Controller",
+        "model": "AS3020",
+        "features": ["Monochrome LCD display", "3 internal keys", "Automatic range switching", "Manual temperature compensation", "Capacitive cell"],
+        "inputs": ["3x potential free switch", "1x conductivity meter"],
+        "outputs": ["3x relay output (powered)"],
+        "power_supply": ["24 VAC", "115 VAC", "230 VAC", "12 VDC", "24 VDC"],
+        "enclosure": "IP65 wall mounting"
+      },
+      "keywords": ["cooling tower controller", "automatic monitoring", "conductivity meter", "manual temperature compensation", "relay outputs", "IP65", "programmable options"]
+    },
+    {
+      "file": "EWS-AS3035-L.pdf",
+      "product_properties": {
+        "type": "Cooling Tower Controller",
+        "model": "AS3035",
+        "features": ["Monochrome LCD display", "6 keys", "5 LEDs for process and alarm indication", "Acoustic signal for alarm", "Automatic range switching", "Manual temperature compensation", "Capacitive cell"],
+        "inputs": ["4x potential free switch", "1x conductivity meter", "Optional: 1x additional potential free switch"],
+        "outputs": ["1x relay output (powered)", "2x relay output (dry contact)", "Optional: 2x relay output (dry contact)"],
+        "power_supply": ["24 VAC", "115 VAC", "230 VAC", "115/24 VAC", "230/24 VAC"],
+        "enclosure": "IP65 wall mounting"
+      },
+      "keywords": ["cooling tower controller", "automatic monitoring", "conductivity meter", "manual temperature compensation", "relay outputs", "IP65", "programmable options", "alarm indication"]
+    }
+  ]
+  

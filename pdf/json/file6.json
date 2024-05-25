@@ -1,0 +1,387 @@
+[
+    {
+      "file": "DuPont-UF-IntegraTec-P-Series-PES-IO-MB-50-TR-L.pdf",
+      "product_properties": {
+        "type": "Pressurized UF Module",
+        "model": "IntegraTec MB 50 TR",
+        "key_features": [
+          "Proven Multibore™ PES fibers",
+          "High colloidal particulate, bacteria, and virus log removal rate",
+          "Optimized for integration in multi-element vessel configurations",
+          "Robust materials for long lifetime",
+          "Easy installation and low maintenance"
+        ],
+        "applications": [
+          "Municipal drinking water",
+          "Desalination RO pretreatment",
+          "Industrial utility water",
+          "Industrial wastewater reuse"
+        ],
+        "membrane_material": "PES",
+        "nominal_membrane_pore_size": "0.02 µm",
+        "active_membrane_area": "50 m²",
+        "dimensions": {
+          "length": "1,900 mm",
+          "diameter": "250 mm"
+        },
+        "weight": {
+          "empty": "46 kg",
+          "filled": "92 kg"
+        },
+        "operating_conditions": {
+          "temperature_range": "1 - 40 °C",
+          "operating_ph": "3 - 11",
+          "cleaning_ph": "1 - 13",
+          "filtration_tmp": "0.1 - 0.6 bar",
+          "backwash_tmp": "0.3 - 2.0 bar"
+        }
+      },
+      "keywords": ["UF module", "PES membrane", "municipal water", "industrial water", "wastewater reuse", "RO pretreatment"]
+    },
+    {
+      "file": "DuPont-UF-IntegraTec-P-Series-PES-IO-MB-55-L.pdf",
+      "product_properties": {
+        "type": "Pressurized UF Module",
+        "model": "IntegraTec MB 55",
+        "key_features": [
+          "Proven Multibore™ PES fibers",
+          "High colloidal particulate, bacteria, and virus log removal rate",
+          "Exceptional physical strength and chemical resistance",
+          "Optimized for open platform design",
+          "Easy installation and low maintenance"
+        ],
+        "applications": [
+          "Municipal drinking water",
+          "Desalination RO pretreatment",
+          "Industrial utility water"
+        ],
+        "membrane_material": "PES",
+        "nominal_membrane_pore_size": "0.02 µm",
+        "active_membrane_area": "55 m²",
+        "dimensions": {
+          "length": "1,537.5 mm",
+          "diameter": "220 mm"
+        },
+        "weight": {
+          "empty": "40 kg",
+          "filled": "87 kg"
+        },
+        "operating_conditions": {
+          "temperature_range": "1 - 40 °C",
+          "operating_ph": "3 - 11",
+          "cleaning_ph": "1 - 13",
+          "filtration_tmp": "0.1 - 0.6 bar",
+          "backwash_tmp": "0.3 - 2.0 bar"
+        }
+      },
+      "keywords": ["UF module", "PES membrane", "municipal water", "industrial water", "desalination", "RO pretreatment"]
+    },
+    {
+      "file": "DuPont-UF-IntegraTec-P-Series-PES-IO-MB-60-OP-L.pdf",
+      "product_properties": {
+        "type": "Pressurized UF Module",
+        "model": "IntegraTec MB 60",
+        "key_features": [
+          "Proven Multibore™ PES fibers",
+          "High colloidal particulate, bacteria, and virus log removal rate",
+          "Optimized for open platform design",
+          "Robust materials for long lifetime",
+          "Easy installation and low maintenance"
+        ],
+        "applications": [
+          "Municipal drinking water",
+          "Desalination RO pretreatment",
+          "Industrial water",
+          "Industrial wastewater reuse"
+        ],
+        "membrane_material": "PES",
+        "nominal_membrane_pore_size": "0.02 µm",
+        "active_membrane_area": "60 m²",
+        "dimensions": {
+          "length": "1,485 mm",
+          "diameter": "250 mm"
+        },
+        "weight": {
+          "empty": "46 kg",
+          "filled": "94 kg"
+        },
+        "operating_conditions": {
+          "temperature_range": "1 - 40 °C",
+          "operating_ph": "3 - 11",
+          "cleaning_ph": "1 - 13",
+          "filtration_tmp": "0.1 - 0.6 bar",
+          "backwash_tmp": "0.3 - 2.0 bar"
+        }
+      },
+      "keywords": ["UF module", "PES membrane", "municipal water", "industrial water", "wastewater reuse", "RO pretreatment"]
+    },
+    {
+      "file": "DuPont-UF-IntegraTec-P-Series-PES-IO-MB-60-TR-S-L.pdf",
+      "product_properties": {
+        "type": "Pressurized UF Module",
+        "model": "IntegraTec MB 60 TR S",
+        "key_features": [
+          "Proven Multibore™ PES fibers",
+          "High colloidal particulate, bacteria, and virus log removal rate",
+          "Innovative end-cap design for T-Rack™ S concept",
+          "Robust materials for long lifetime",
+          "Easy installation and low maintenance"
+        ],
+        "applications": [
+          "Municipal wastewater",
+          "Desalination RO pretreatment",
+          "Industrial utility water",
+          "Industrial wastewater reuse"
+        ],
+        "membrane_material": "PES",
+        "nominal_membrane_pore_size": "0.02 µm",
+        "active_membrane_area": "60 m²",
+        "dimensions": {
+          "length": "1,879 mm",
+          "diameter": "250 mm"
+        },
+        "weight": {
+          "empty": "61 kg",
+          "filled": "128 kg"
+        },
+        "operating_conditions": {
+          "temperature_range": "1 - 40 °C",
+          "operating_ph": "3 - 11",
+          "cleaning_ph": "1 - 13",
+          "filtration_tmp": "0.1 - 0.6 bar",
+          "backwash_tmp": "0.3 - 2.0 bar"
+        }
+      },
+      "keywords": ["UF module", "PES membrane", "municipal wastewater", "industrial water", "wastewater reuse", "RO pretreatment"]
+    },
+    {
+      "file": "DuPont-UF-IntegraTec-P-Series-PES-IO-MB-80-OP-L.pdf",
+      "product_properties": {
+        "type": "Pressurized UF Module",
+        "model": "IntegraTec MB 80",
+        "key_features": [
+          "Proven Multibore™ PES fibers",
+          "High colloidal particulate, bacteria, and virus log removal rate",
+          "Optimized for open platform design",
+          "Robust materials for long lifetime",
+          "Easy installation and low maintenance"
+        ],
+        "applications": [
+          "Municipal drinking water",
+          "Desalination RO pretreatment",
+          "Industrial utility water",
+          "Industrial wastewater reuse"
+        ],
+        "membrane_material": "PES",
+        "nominal_membrane_pore_size": "0.02 µm",
+        "active_membrane_area": "80 m²",
+        "dimensions": {
+          "length": "1,720 mm",
+          "diameter": "250 mm"
+        },
+        "weight": {
+          "empty": "58 kg",
+          "filled": "110 kg"
+        },
+        "operating_conditions": {
+          "temperature_range": "1 - 40 °C",
+          "operating_ph": "3 - 11",
+          "cleaning_ph": "1 - 13",
+          "filtration_tmp": "0.1 - 0.6 bar",
+          "backwash_tmp": "0.3 - 2.0 bar"
+        }
+      },
+      "keywords": ["UF module", "PES membrane", "municipal water", "industrial water", "wastewater reuse", "RO pretreatment"]
+    },
+    {
+      "file": "DuPont-UF-IntegraTec-P-Series-PES-IO-MB-80-TR-L.pdf",
+      "product_properties": {
+        "type": "Pressurized UF Module",
+        "model": "IntegraTec MB 80 TR",
+        "key_features": [
+          "Proven Multibore™ PES fibers",
+          "High colloidal particulate, bacteria, and virus log removal rate",
+          "Innovative end-cap design for T-Rack™ concept",
+          "Robust materials for long lifetime",
+          "Easy installation and low maintenance"
+        ],
+        "applications": [
+          "Municipal wastewater",
+          "Desalination RO pretreatment"
+        ],
+        "membrane_material": "PES",
+        "nominal_membrane_pore_size": "0.02 µm",
+        "active_membrane_area": "80 m²",
+        "dimensions": {
+          "length": "1,720 mm",
+          "diameter": "250 mm"
+        },
+        "weight": {
+          "empty": "58 kg",
+          "filled": "110 kg"
+        },
+        "operating_conditions": {
+          "temperature_range": "1 - 40 °C",
+          "operating_ph": "3 - 11",
+          "cleaning_ph": "1 - 13",
+          "filtration_tmp": "0.1 - 0.6 bar",
+          "backwash_tmp": "0.3 - 2.0 bar"
+        }
+      },
+      "keywords": ["UF module", "PES membrane", "municipal wastewater", "RO pretreatment", "T-Rack", "high recovery"]
+    },
+    {
+      "file": "DuPont-UF-IntegraTec-P-Series-PES-IO-MB-PRO-95-L.pdf",
+      "product_properties": {
+        "type": "Pressurized UF Module",
+        "model": "IntegraTec MB PRO 95",
+        "key_features": [
+          "Innovative Multibore™ PRO PES fibers",
+          "High colloidal particulate, bacteria, and virus log removal rate",
+          "Optimized for open platform design",
+          "Robust materials for long lifetime",
+          "Easy installation and low maintenance"
+        ],
+        "applications": [
+          "Municipal drinking water",
+          "Desalination RO pretreatment",
+          "Ideal for large systems"
+        ],
+        "membrane_material": "PES",
+        "nominal_membrane_pore_size": "0.02 µm",
+        "active_membrane_area": "95 m²",
+        "dimensions": {
+          "length": "1,720 mm",
+          "diameter": "250 mm"
+        },
+        "weight": {
+          "empty": "58 kg",
+          "filled": "110 kg"
+        },
+        "operating_conditions": {
+          "temperature_range": "1 - 40 °C",
+          "operating_ph": "3 - 11",
+          "cleaning_ph": "1 - 13",
+          "filtration_tmp": "0.1 - 0.6 bar",
+          "backwash_tmp": "0.3 - 2.0 bar"
+        }
+      },
+      "keywords": ["UF module", "PES membrane", "municipal water", "large systems", "RO pretreatment"]
+    },
+    {
+      "file": "DuPont-UF-IntegraTec-P-Series-PVDF-OI-OG-50-L.pdf",
+      "product_properties": {
+        "type": "Pressurized UF Module",
+        "model": "IntegraTec OG-50",
+        "key_features": [
+          "Proven hydrophilic PVDF fiber",
+          "Superior chlorine resistance",
+          "High colloidal particulate, bacteria, and virus log removal rate",
+          "Optimized for integration in multi-element vessel configurations",
+          "Robust materials for long lifetime"
+        ],
+        "applications": [
+          "High pressure filtration in offshore oil feed water"
+        ],
+        "membrane_material": "PVDF",
+        "nominal_membrane_pore_size": "0.03 µm",
+        "active_membrane_area": "50 m²",
+        "dimensions": {
+          "length": "2,206 mm",
+          "diameter": "160 mm"
+        },
+        "weight": {
+          "empty": "25 kg",
+          "filled": "50 kg"
+        },
+        "operating_conditions": {
+          "temperature_range": "1 - 40 °C",
+          "operating_ph": "2 - 11",
+          "cleaning_ph": "2 - 12",
+          "filtration_tmp": "0.4 - 1.5 bar",
+          "backwash_tmp": "0.6 - 2.0 bar"
+        }
+      },
+      "keywords": ["UF module", "PVDF membrane", "high pressure", "offshore oil feed water", "chlorine resistance"]
+    },
+    {
+      "file": "DuPont-UF-IntegraTec-P-Series-PVDF-OI-SFP-2660-OP-L.pdf",
+      "product_properties": {
+        "type": "Pressurized UF Module",
+        "model": "IntegraTec SFP-2660",
+        "key_features": [
+          "Proven hydrophilic PVDF fiber",
+          "Superior chlorine resistance",
+          "High colloidal particulate, bacteria, and virus log removal rate",
+          "Optimized for open platform design",
+          "Robust materials for long lifetime"
+        ],
+        "applications": [
+          "Industrial utility water",
+          "Industrial wastewater reuse",
+          "Municipal wastewater filtration",
+          "RO pretreatment"
+        ],
+        "membrane_material": "PVDF",
+        "nominal_membrane_pore_size": "0.03 µm",
+        "active_membrane_area": "33 m²",
+        "dimensions": {
+          "length": "1,835 mm",
+          "diameter": "165 mm"
+        },
+        "weight": {
+          "empty": "25 kg",
+          "filled": "41 kg"
+        },
+        "operating_conditions": {
+          "temperature_range": "1 - 40 °C",
+          "operating_ph": "2 - 11",
+          "cleaning_ph": "2 - 12",
+          "filtration_tmp": "0.4 - 1.5 bar",
+          "backwash_tmp": "0.6 - 2.0 bar"
+        }
+      },
+      "keywords": ["UF module", "PVDF membrane", "industrial water", "wastewater reuse", "RO pretreatment"]
+    },
+    {
+      "file": "DuPont-UF-IntegraTec-P-Series-PVDF-OI-XP51-IP-IG-L.pdf",
+      "product_properties": {
+        "type": "Pressurized UF Module",
+        "model": "IntegraTec XP 51 IP IG",
+        "key_features": [
+          "Proven XP™ hydrophilic PVDF fiber",
+          "Superior fouling and chlorine resistance",
+          "High colloidal particulate, bacteria, and virus log removal rate",
+          "Optimized for rack solutions",
+          "Short module design for height restricted installations"
+        ],
+        "applications": [
+          "Municipal drinking water",
+          "Industrial utility water",
+          "Industrial wastewater reuse",
+          "Municipal wastewater filtration",
+          "RO pretreatment"
+        ],
+        "membrane_material": "PVDF",
+        "nominal_membrane_pore_size": "0.03 µm",
+        "active_membrane_area": "51 m²",
+        "dimensions": {
+          "length": "1,988 mm",
+          "diameter": "225 mm"
+        },
+        "weight": {
+          "empty": "53 kg",
+          "filled": "102 kg"
+        },
+        "operating_conditions": {
+          "temperature_range": "1 - 40 °C",
+          "operating_ph": "2 - 11",
+          "cleaning_ph": "2 - 12",
+          "filtration_tmp": "0.4 - 1.5 bar",
+          "backwash_tmp": "0.6 - 2.0 bar"
+        }
+      },
+      "keywords": ["UF module", "PVDF membrane", "municipal water", "industrial water", "wastewater reuse", "RO pretreatment", "rack solutions"]
+    }
+  ]
+  

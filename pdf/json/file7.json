@@ -1,0 +1,264 @@
+[
+    {
+      "file": "Grundfos-MMS_SKC-L.pdf",
+      "product_properties": {
+        "type": "Submersible Motor",
+        "model": "MMS",
+        "key_features": [
+          "Designed for long life under extreme operating conditions",
+          "Heavy-duty motor",
+          "Robust construction",
+          "Stainless steel design"
+        ],
+        "applications": [
+          "Water supply",
+          "Groundwater lowering",
+          "Pressure boosting",
+          "Irrigation"
+        ],
+        "specifications": {
+          "power_range": "0.37 to 250 kW",
+          "voltage_range": "380-415V, 50Hz",
+          "rated_speed": "2900 rpm",
+          "temperature_range": "0 to 40°C",
+          "protection_class": "IP68"
+        }
+      },
+      "keywords": ["submersible motor", "water supply", "groundwater", "pressure boosting", "irrigation", "stainless steel"]
+    },
+    {
+      "file": "Grundfos-MP1_SKC-L.pdf",
+      "product_properties": {
+        "type": "Pump",
+        "model": "MP1",
+        "key_features": [
+          "High efficiency",
+          "Robust and reliable design",
+          "Suitable for aggressive media",
+          "Flexible installation options"
+        ],
+        "applications": [
+          "Water treatment",
+          "Industrial applications",
+          "Groundwater control"
+        ],
+        "specifications": {
+          "flow_rate": "0.5 to 2.5 m³/h",
+          "head": "10 to 150 m",
+          "power_range": "0.55 to 1.5 kW",
+          "voltage_range": "220-240V, 50Hz",
+          "temperature_range": "0 to 60°C"
+        }
+      },
+      "keywords": ["pump", "water treatment", "industrial applications", "groundwater control", "high efficiency"]
+    },
+    {
+      "file": "Grundfos-MQ_RMQ_SKC-L.pdf",
+      "product_properties": {
+        "type": "Booster Pump",
+        "model": "MQ/RMQ",
+        "key_features": [
+          "Compact and reliable",
+          "Integrated pressure tank",
+          "Built-in protection features",
+          "Easy to install and operate"
+        ],
+        "applications": [
+          "Domestic water supply",
+          "Light commercial applications",
+          "Pressure boosting"
+        ],
+        "specifications": {
+          "flow_rate": "1 to 4 m³/h",
+          "head": "15 to 45 m",
+          "power_range": "0.6 to 1.1 kW",
+          "voltage_range": "220-240V, 50Hz",
+          "temperature_range": "0 to 35°C"
+        }
+      },
+      "keywords": ["booster pump", "domestic water supply", "pressure boosting", "compact design", "easy installation"]
+    },
+    {
+      "file": "Grundfos-MS_SKC-L.pdf",
+      "product_properties": {
+        "type": "Submersible Motor",
+        "model": "MS",
+        "key_features": [
+          "Stainless steel construction",
+          "High efficiency and reliability",
+          "Corrosion-resistant",
+          "Wide range of power outputs"
+        ],
+        "applications": [
+          "Water supply",
+          "Groundwater extraction",
+          "Irrigation systems"
+        ],
+        "specifications": {
+          "power_range": "0.37 to 30 kW",
+          "voltage_range": "220-240V, 380-415V, 50Hz",
+          "rated_speed": "2900 rpm",
+          "temperature_range": "0 to 40°C",
+          "protection_class": "IP68"
+        }
+      },
+      "keywords": ["submersible motor", "stainless steel", "water supply", "groundwater extraction", "irrigation"]
+    },
+    {
+      "file": "Grundfos-MTA_MTAD_SKC-L.pdf",
+      "product_properties": {
+        "type": "Tank",
+        "model": "MTA/MTAD",
+        "key_features": [
+          "High-quality construction",
+          "Corrosion-resistant",
+          "Suitable for various media",
+          "Easy maintenance"
+        ],
+        "applications": [
+          "Storage tanks",
+          "Pressure tanks",
+          "Buffer tanks"
+        ],
+        "specifications": {
+          "capacity_range": "100 to 5000 liters",
+          "material": "Stainless steel",
+          "temperature_range": "0 to 100°C",
+          "pressure_rating": "10 bar"
+        }
+      },
+      "keywords": ["tank", "storage", "pressure tank", "buffer tank", "corrosion-resistant"]
+    },
+    {
+      "file": "Grundfos-MTB-L.pdf",
+      "product_properties": {
+        "type": "Centrifugal Pump",
+        "model": "MTB",
+        "key_features": [
+          "Durable construction",
+          "High efficiency",
+          "Low maintenance",
+          "Wide range of applications"
+        ],
+        "applications": [
+          "Industrial processes",
+          "Cooling systems",
+          "Water treatment"
+        ],
+        "specifications": {
+          "flow_rate": "5 to 500 m³/h",
+          "head": "10 to 200 m",
+          "power_range": "0.75 to 75 kW",
+          "voltage_range": "220-240V, 380-415V, 50Hz",
+          "temperature_range": "0 to 90°C"
+        }
+      },
+      "keywords": ["centrifugal pump", "industrial processes", "cooling systems", "water treatment", "high efficiency"]
+    },
+    {
+      "file": "Grundfos-MTH_MTC_SKC-L.pdf",
+      "product_properties": {
+        "type": "Centrifugal Pump",
+        "model": "MTH/MTC",
+        "key_features": [
+          "Compact design",
+          "High efficiency",
+          "Quiet operation",
+          "Easy to install"
+        ],
+        "applications": [
+          "Cooling and air conditioning systems",
+          "Industrial applications",
+          "Water supply"
+        ],
+        "specifications": {
+          "flow_rate": "0.5 to 5 m³/h",
+          "head": "5 to 50 m",
+          "power_range": "0.25 to 2.2 kW",
+          "voltage_range": "220-240V, 50Hz",
+          "temperature_range": "0 to 60°C"
+        }
+      },
+      "keywords": ["centrifugal pump", "cooling systems", "air conditioning", "industrial applications", "quiet operation"]
+    },
+    {
+      "file": "Grundfos-MTR_SKC-L.pdf",
+      "product_properties": {
+        "type": "Multistage Pump",
+        "model": "MTR",
+        "key_features": [
+          "High pressure capabilities",
+          "Compact and robust design",
+          "Easy maintenance",
+          "Suitable for various liquids"
+        ],
+        "applications": [
+          "Boiler feed",
+          "Water supply",
+          "Industrial applications"
+        ],
+        "specifications": {
+          "flow_rate": "1 to 120 m³/h",
+          "head": "20 to 250 m",
+          "power_range": "0.37 to 75 kW",
+          "voltage_range": "220-240V, 380-415V, 50Hz",
+          "temperature_range": "0 to 100°C"
+        }
+      },
+      "keywords": ["multistage pump", "boiler feed", "water supply", "industrial applications", "high pressure"]
+    },
+    {
+      "file": "Grundfos-MTS-L.pdf",
+      "product_properties": {
+        "type": "Bare Shaft Pump",
+        "model": "MTS",
+        "key_features": [
+          "Heavy-duty construction",
+          "High efficiency",
+          "Long service life",
+          "Easy to integrate into systems"
+        ],
+        "applications": [
+          "Industrial processes",
+          "Cooling systems",
+          "Water treatment"
+        ],
+        "specifications": {
+          "flow_rate": "10 to 600 m³/h",
+          "head": "10 to 100 m",
+          "power_range": "0.75 to 200 kW",
+          "voltage_range": "220-240V, 380-415V, 50Hz",
+          "temperature_range": "0 to 90°C"
+        }
+      },
+      "keywords": ["bare shaft pump", "industrial processes", "cooling systems", "water treatment", "heavy-duty"]
+    },
+    {
+      "file": "Grundfos-Multilift_SKC-L.pdf",
+      "product_properties": {
+        "type": "Lifting Station",
+        "model": "Multilift",
+        "key_features": [
+          "Compact and robust design",
+          "Integrated pump system",
+          "Automatic operation",
+          "Easy installation and maintenance"
+        ],
+        "applications": [
+          "Sewage and wastewater lifting",
+          "Basement drainage",
+          "Commercial buildings"
+        ],
+        "specifications": {
+          "capacity_range": "50 to 500 liters",
+          "flow_rate": "1 to 20 m³/h",
+          "head": "5 to 20 m",
+          "power_range": "0.75 to 4 kW",
+          "voltage_range": "220-240V, 50Hz",
+          "temperature_range": "0 to 40°C"
+        }
+      },
+      "keywords": ["lifting station", "sewage lifting", "wastewater lifting", "basement drainage", "compact design"]
+    }
+  ]
+  
