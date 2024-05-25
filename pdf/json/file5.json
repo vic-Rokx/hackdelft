@@ -1,0 +1,307 @@
+[
+    {
+      "file": "BWA-Belclene-200-L.pdf",
+      "product_properties": {
+        "type": "Antiscalant",
+        "description": "Belclene 200 is the most effective calcium carbonate antiscalant for high hardness, high alkalinity, and high temperature cooling water systems.",
+        "applications": [
+          "Superior calcium carbonate scale inhibition",
+          "Threshold inhibition and crystal modification",
+          "Enhanced phosphonate-based programs"
+        ],
+        "benefits": [
+          "Effective in severe service conditions",
+          "FDA approved for sugar and beet processing",
+          "Kosher certified"
+        ],
+        "packaging": {
+          "drum": "528 lb / 240 kg",
+          "ibcs_totes": "2204 lb / 1000 kg"
+        },
+        "physical_properties": {
+          "appearance": "Clear to slightly turbid amber liquid",
+          "solids_content": "50% w/w",
+          "specific_gravity": "1.16 - 1.19 @ 20°C",
+          "ph": "<2",
+          "viscosity": "10 - 25 cSt @ 25°C",
+          "boiling_range": "100-102°C (212-214°F)",
+          "freezing_point": "-5 to -12°C (23-10°F)",
+          "solubility": "Miscible in water"
+        }
+      },
+      "keywords": ["antiscalant", "calcium carbonate", "high hardness", "high alkalinity", "cooling water", "FDA approved", "Kosher certified"]
+    },
+    {
+      "file": "BWA-Belclene-220-L.pdf",
+      "product_properties": {
+        "type": "Antiscalant",
+        "description": "Belclene 220 is a phosphono polycarboxylic acid homopolymer in aqueous solution used for ferrous metal corrosion inhibition and calcium carbonate deposit control.",
+        "applications": [
+          "Excellent calcium carbonate scale inhibition",
+          "Threshold inhibition and crystal modification",
+          "Enhanced phosphonate-based formulations"
+        ],
+        "benefits": [
+          "Effective in severe service conditions",
+          "Control calcium carbonate scale in high hardness, high alkalinity, and high temperatures"
+        ],
+        "packaging": {
+          "drum": "485 lb / 220 kg",
+          "ibcs_totes": "2204 lb / 1000 kg"
+        },
+        "physical_properties": {
+          "appearance": "Colorless to pale yellow liquid",
+          "solids_content": "40% w/w",
+          "specific_gravity": "1.3 @ 20°C",
+          "ph": "4.5 @ 20°C",
+          "solubility": "Ready soluble in water"
+        }
+      },
+      "keywords": ["antiscalant", "phosphono polycarboxylic acid", "ferrous metal corrosion inhibition", "calcium carbonate deposit control", "high hardness", "high alkalinity"]
+    },
+    {
+      "file": "BWA-Belclene-245-L.pdf",
+      "product_properties": {
+        "type": "Antiscalant",
+        "description": "Belclene 245 is a halogen tolerant maleic polymer providing excellent calcium carbonate and calcium sulfate inhibition in cooling water systems.",
+        "applications": [
+          "Crystal growth blocking",
+          "Calcium ion stabilization",
+          "Mild steel corrosion inhibition",
+          "Antifoulant performance"
+        ],
+        "benefits": [
+          "Superior performance for crystal growth blocking",
+          "Greater efficiency by operating at higher cycles of concentration"
+        ],
+        "packaging": {
+          "drum": "530 lb / 240 kg"
+        },
+        "physical_properties": {
+          "appearance": "Clear to slightly turbid amber liquid",
+          "solids_content": "52% w/w",
+          "specific_gravity": "1.216 @ 20°C",
+          "ph": "1.4",
+          "viscosity": "48.0 m2/sec",
+          "freezing_point": "Protect from frost",
+          "solubility": "Miscible in water"
+        }
+      },
+      "keywords": ["antiscalant", "halogen tolerant", "maleic polymer", "calcium carbonate inhibition", "calcium sulfate inhibition", "crystal growth blocking"]
+    },
+    {
+      "file": "BWA-Belclene-283-L.pdf",
+      "product_properties": {
+        "type": "Antiscalant",
+        "description": "Belclene 283 is a cost-effective alternative to polyacrylate-based calcium carbonate antiscalants for low to moderate LSI cooling applications.",
+        "applications": [
+          "Calcium carbonate scale inhibition",
+          "Threshold inhibition and crystal modification",
+          "Zinc stabilization"
+        ],
+        "benefits": [
+          "Superior performance in cooling water formulations",
+          "FDA approval for non-contact cooling and retort waters",
+          "Halogen stability"
+        ],
+        "packaging": {
+          "drum": "528 lb / 240 kg",
+          "ibcs_totes": "2204 lb / 1000 kg"
+        },
+        "physical_properties": {
+          "appearance": "Clear to slightly turbid amber liquid",
+          "solids_content": "48% w/w",
+          "specific_gravity": "1.165 - 1.185 @ 20°C",
+          "ph": "<2",
+          "viscosity": "10 - 25 cSt @ 25°C",
+          "boiling_range": "100-102°C (212-215°F)",
+          "freezing_point": "-5 to -4°C (23-25°F)",
+          "solubility": "Miscible in water"
+        }
+      },
+      "keywords": ["antiscalant", "calcium carbonate", "zinc stabilization", "low to moderate LSI", "cooling applications", "FDA approved", "halogen stability"]
+    },
+    {
+      "file": "BWA-Belclene-287-L.pdf",
+      "product_properties": {
+        "type": "Antiscalant",
+        "description": "Belclene 287 is designed for formulators seeking a highly effective alternative to polyacrylate-based calcium carbonate antiscalants for Kraft pulp operations.",
+        "applications": [
+          "Calcium carbonate scale inhibition in Kraft pulp digesters",
+          "Exceptional control of calcium carbonate and oxalate deposition",
+          "Improved liquor circulation rates"
+        ],
+        "benefits": [
+          "Reduced plant shutdowns for cleaning",
+          "Prolonged heater life and less corrosion"
+        ],
+        "packaging": {
+          "ibcs_totes": "2755 lb / 1250 kg"
+        },
+        "physical_properties": {
+          "appearance": "Clear liquid",
+          "solids_content": "37% w/w",
+          "specific_gravity": "1.26 - 1.3 @ 25°C",
+          "ph": "6.5 - 8.5",
+          "viscosity": "30-130 cP @ 25°C",
+          "boiling_range": "100-102°C (212-215°F)",
+          "freezing_point": "-2°C (28°F)",
+          "solubility": "Miscible in water"
+        }
+      },
+      "keywords": ["antiscalant", "calcium carbonate", "oxalate deposition", "Kraft pulp operations", "liquor circulation", "reduced plant shutdowns", "corrosion control"]
+    },
+    {
+      "file": "BWA-Belclene-400-L.pdf",
+      "product_properties": {
+        "type": "Multifunctional Deposit Control Agent",
+        "description": "Belclene 400 provides flexibility in developing phosphonate-based corrosion control formulations for cooling water, process water, and similar applications.",
+        "applications": [
+          "Phosphate inhibition/dispersancy",
+          "Calcium phosphonate stabilization",
+          "Iron oxide dispersancy"
+        ],
+        "benefits": [
+          "Effective for general calcium phosphate and calcium carbonate fouling",
+          "Building block to improve the performance of various water treatment formulations"
+        ],
+        "packaging": {
+          "drum": "528 lb / 240 kg",
+          "ibcs_totes": "2650 lb / 1225 kg"
+        },
+        "physical_properties": {
+          "appearance": "Clear to pale yellow liquid",
+          "solids_content": "47-53% w/w",
+          "specific_gravity": "1.24 @ 20°C",
+          "ph": "2.5 @ 20°C",
+          "viscosity": "250 mm2/s @ 25°C",
+          "boiling_point_range": "103-105°C (217-221°F)",
+          "freezing_point": "-12 to -3°C (10-28°F)",
+          "theoretical_phosphorus_content": "<1%",
+          "solubility": "Miscible in water"
+        }
+      },
+      "keywords": ["multifunctional deposit control agent", "phosphate inhibition", "calcium phosphonate stabilization", "iron oxide dispersancy", "corrosion control", "cooling water"]
+    },
+    {
+      "file": "BWA-Belclene-440-L.pdf",
+      "product_properties": {
+        "type": "Multifunctional Deposit Control Agent",
+        "description": "Belclene 440 is a unique combination of polymer and phosphonate in one molecule, providing improved flexibility and cost-effectiveness for water treatment formulators.",
+        "applications": [
+          "Calcium carbonate scale control",
+          "Calcium phosphate scale control",
+          "Phosphonate stabilization"
+        ],
+        "benefits": [
+          "Multifunctional antiscalant",
+          "Effective iron oxide and particle dispersion",
+          "Corrosion inhibition properties"
+        ],
+        "packaging": {
+          "drum": "551 lb / 250 kg",
+          "ibcs_totes": "1250 kg"
+        },
+        "physical_properties": {
+          "appearance": "Clear to pale yellow liquid",
+          "solids_content": "40% w/w",
+          "specific_gravity": "1.20 @ 20/20°C",
+          "ph": "2 @ 20°C",
+          "boiling_range": "100-102°C (212-216°F)",
+          "solubility": "Ready soluble in water"
+        }
+      },
+      "keywords": ["multifunctional deposit control agent", "calcium carbonate scale control", "calcium phosphate scale control", "phosphonate stabilization", "iron oxide dispersion"]
+    },
+    {
+      "file": "BWA-Belclene-460-L.pdf",
+      "product_properties": {
+        "type": "Antiscalant and Dispersant",
+        "description": "Belclene 460 is an aqueous, non-phosphorus, carboxylic copolymer offering excellent multifunctional properties for scale and corrosion water treatment programs.",
+        "applications": [
+          "Threshold inhibition and crystal modification",
+          "Stabilization of calcium phosphate and zinc",
+          "Calcium sulfate and oxalate scale prevention"
+        ],
+        "benefits": [
+          "Halogen stable, strong dispersant",
+          "Good thermal stability",
+          "Effective over a wide pH range"
+        ],
+        "packaging": {
+          "drum": "441 lb / 200 kg",
+          "ibcs_totes": "2535 lb / 1150 kg"
+        },
+        "physical_properties": {
+          "appearance": "Semi-viscous yellow to amber liquid",
+          "solids_content": "36-38% w/w",
+          "specific_gravity": "1.18 @ 20°C",
+          "ph": "4.5 @ 20°C",
+          "solubility": "Fully soluble in water"
+        }
+      },
+      "keywords": ["antiscalant", "dispersant", "carboxylic copolymer", "scale prevention", "calcium phosphate stabilization", "corrosion control"]
+    },
+    {
+      "file": "BWA-Belclene-500-L.pdf",
+      "product_properties": {
+        "type": "Corrosion Inhibitor",
+        "description": "Belclene 500 provides a highly effective mild steel corrosion inhibitor and a strong building block for zinc-based cooling water programs.",
+        "applications": [
+          "Building block for zinc-based corrosion inhibitor formulations",
+          "Effective in moderate hardness and soft waters",
+          "Halogen stability"
+        ],
+        "benefits": [
+          "Effective in presence of dissolved iron",
+          "Stable in any system water at any pH"
+        ],
+        "packaging": {
+          "drum": "475 lb / 215 kg"
+        },
+        "physical_properties": {
+          "appearance": "Clear or pale yellow liquid",
+          "solids_content": "35% w/w",
+          "specific_gravity": "1.17 @ 20°C",
+          "ph": "2.5 @ 20°C",
+          "viscosity": "10 mm2/s @ 25°C",
+          "boiling_range": "100-101°C (212-214°F)",
+          "freezing_point_range": "0 to -10°C (32-14°F)",
+          "solubility": "Miscible in water"
+        }
+      },
+      "keywords": ["corrosion inhibitor", "zinc-based", "mild steel", "cooling water", "halogen stability", "dissolved iron"]
+    },
+    {
+      "file": "BWA-Belclene-640-L.pdf",
+      "product_properties": {
+        "type": "Antiscalant and Corrosion Inhibitor",
+        "description": "Belclene 640 provides calcium carbonate and iron oxide deposit control for formulators who prefer phosphonate-based programs.",
+        "applications": [
+          "Calcium carbonate scale inhibition",
+          "Calcium sulfate inhibition",
+          "Iron oxide dispersancy"
+        ],
+        "benefits": [
+          "Good zinc and phosphate stabilization",
+          "Good mild steel corrosion protection",
+          "Inexpensive method to control deposition"
+        ],
+        "packaging": {
+          "drum": "573 lb / 260 kg",
+          "ibcs_totes": "2755 lb / 1250 kg"
+        },
+        "physical_properties": {
+          "appearance": "Clear colorless to yellow liquid",
+          "solids_content": "50% w/w",
+          "specific_gravity": "1.33 @ 20°C",
+          "ph": "<2.0",
+          "boiling_range": "101-103°C (213-217°F)",
+          "freezing_point": "<-15°C",
+          "solubility": "Ready soluble in water"
+        }
+      },
+      "keywords": ["antiscalant", "corrosion inhibitor", "calcium carbonate inhibition", "iron oxide dispersancy", "phosphonate-based", "zinc stabilization"]
+    }
+  ]
+  

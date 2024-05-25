@@ -11,6 +11,7 @@ const openai = new OpenAI({
 });
 
 async function constructJSON(taskText: string): Promise<string | null> {
+    // const prompt = `Only return the json object from this prompt '${taskText}'`;
     const prompt = `Only return the json object from this prompt '${taskText}'`;
     const params: OpenAI.Chat.ChatCompletionCreateParams = {
         messages: [{ role: 'user', content: prompt }],

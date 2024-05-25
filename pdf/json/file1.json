@@ -1,0 +1,310 @@
+[
+    {
+      "file": "Alfawater-ABF-filters-L.pdf",
+      "product_properties": {
+        "type": "Compact, under-vacuum filter",
+        "housing_material": "Stainless steel",
+        "max_flow_rate": "30 m3/h (132 US gpm)",
+        "screen_area": "4500 cm2",
+        "filtration_degrees": "50, 30, 10, 5 µm",
+        "connections": {
+          "inlet": "3” flanged EN 1092-1",
+          "outlet": "2”½ flanged EN 1092-1",
+          "drain_overflow": "2” flanged EN 1092-1"
+        },
+        "max_working_temperature": "40 °C (104 °F)",
+        "electrical_data": {
+          "supply_voltage": "230 Vac 1-phase 50/60 Hz (optional: 400 Vac 3-phases 50/60 Hz)",
+          "control_voltage": "24 Vdc",
+          "motor_power": "1 + 0.8 kW"
+        },
+        "dimensions": {
+          "shape": "C",
+          "model": "ABF 45C3",
+          "max_flow_rate": "30 m3/h",
+          "dimensions": {
+            "A": "2070 mm",
+            "B": "915 mm",
+            "C": "1345 mm",
+            "D": "1520 mm",
+            "E": "818 mm",
+            "F": "140 mm",
+            "G": "1070 mm",
+            "H": "440 mm",
+            "I": "310 mm",
+            "J": "350 mm",
+            "X": "300 mm",
+            "weight": "480 Kg"
+          }
+        }
+      },
+      "keywords": ["compact filter", "under-vacuum filter", "stainless steel housing", "max flow rate 30 m3/h", "screen area 4500 cm2", "filtration 50 µm", "connections flanged", "max working temperature 40 °C", "electrical data"]
+    },
+    {
+      "file": "Alfawater-ABG-filters-L.pdf",
+      "product_properties": {
+        "type": "Bag filter with stainless housing",
+        "housing_material": "Stainless steel",
+        "max_flow_rate": "70 m3/h (308 US gpm)",
+        "screen_area": "4500 cm2",
+        "filtration_degrees": "200, 100, 50, 25, 10, 5, 1 µm",
+        "connections": {
+          "inlet_outlet": "2” / 3” F threaded or Victaulic",
+          "drain": "1” thrdF"
+        },
+        "max_working_temperature": "80 °C (176 °F)",
+        "dimensions": {
+          "shape": "Z",
+          "model": "ABG 45Z2",
+          "max_flow_rate": "30 m3/h",
+          "dimensions": {
+            "A": "1270 mm",
+            "B": "1370 mm",
+            "C": "1080 mm",
+            "D": "1180 mm",
+            "E": "920 mm",
+            "X": "160 mm",
+            "weight": "32 Kg"
+          }
+        }
+      },
+      "keywords": ["bag filter", "stainless housing", "max flow rate 70 m3/h", "screen area 4500 cm2", "filtration 200 µm", "connections threaded", "max working temperature 80 °C", "dimensions"]
+    },
+    {
+      "file": "Alfawater-ABK-filters-L.pdf",
+      "product_properties": {
+        "type": "Pre-filtration strainer with reusable stainless steel basket",
+        "housing_material": "Stainless steel",
+        "max_flow_rate": "600 m3/h (2642 US gpm)",
+        "screen_area": "8100 cm2",
+        "filtration_degrees": "100, 200, 500, 1000, 2000, 5000 µm",
+        "connections": {
+          "inlet_outlet": "2” to 10” flanged EN 1092-1",
+          "drain": "1” thrdF"
+        },
+        "max_working_temperature": "80 °C (140 °F)",
+        "dimensions": {
+          "shape": "Z",
+          "model": "ABK 81Z10",
+          "max_flow_rate": "600 m3/h",
+          "dimensions": {
+            "A": "1700 mm",
+            "B": "1300 mm",
+            "C": "650 mm",
+            "D": "450 mm",
+            "E": "150 mm",
+            "weight": "105 Kg"
+          }
+        }
+      },
+      "keywords": ["pre-filtration strainer", "reusable basket", "stainless steel housing", "max flow rate 600 m3/h", "screen area 8100 cm2", "filtration 100 µm", "connections flanged", "max working temperature 80 °C", "dimensions"]
+    },
+    {
+      "file": "Alfawater-ABR-filters-L.pdf",
+      "product_properties": {
+        "type": "Automatic self-cleaning filter with brushes",
+        "housing_material": "Stainless steel",
+        "max_flow_rate": "390 m3/h (1717 US gpm)",
+        "screen_area": "5500 cm2",
+        "filtration_degrees": "10, 25, 50, 100, 200, 400, 500, 800, 1000 µm",
+        "connections": {
+          "inlet_outlet": "2” to 8” flanged EN 1092-1",
+          "drain": "1”½ to 2” flanged EN 1092-1"
+        },
+        "max_working_temperature": "60 °C (140 °F)",
+        "dimensions": {
+          "shape": "H",
+          "model": "ABR 55H8",
+          "max_flow_rate": "390 m3/h",
+          "dimensions": {
+            "A": "1860 mm",
+            "B": "601 mm",
+            "C": "640 mm",
+            "D": "280 mm",
+            "E": "273 mm",
+            "X": "900 mm",
+            "Y": "600 mm",
+            "weight": "112 Kg"
+          }
+        }
+      },
+      "keywords": ["automatic self-cleaning filter", "brushes", "stainless steel housing", "max flow rate 390 m3/h", "screen area 5500 cm2", "filtration 10 µm", "connections flanged", "max working temperature 60 °C", "dimensions"]
+    },
+    {
+      "file": "Alfawater-ABV-filters-L.pdf",
+      "product_properties": {
+        "type": "Inline basket strainer",
+        "housing_material": "Stainless steel",
+        "max_flow_rate": "350 m3/h (1540 US gpm)",
+        "screen_area": "2200 cm2",
+        "filtration_degrees": "1000, 2000, 5000 µm",
+        "connections": {
+          "inlet_outlet": "1”½ to 6” flanged EN 1092-1",
+          "drain": "½” thrdF"
+        },
+        "max_working_temperature": "95 °C (200 °F)",
+        "dimensions": {
+          "shape": "T",
+          "model": "AMB 22T6",
+          "max_flow_rate": "350 m3/h",
+          "dimensions": {
+            "A": "480 mm",
+            "B": "273 mm",
+            "C": "390 mm",
+            "D": "230 mm",
+            "X": "500 mm",
+            "weight": "36 Kg"
+          }
+        }
+      },
+      "keywords": ["inline basket strainer", "stainless steel housing", "max flow rate 350 m3/h", "screen area 2200 cm2", "filtration 1000 µm", "connections flanged", "max working temperature 95 °C", "dimensions"]
+    },
+    {
+      "file": "Alfawater-AHC-filters-L.pdf",
+      "product_properties": {
+        "type": "Liquid-solid separator filter",
+        "housing_material": "Painted FeC, AISI 304, AISI 316",
+        "max_flow_rate": "2750 m3/h (12100 US gpm)",
+        "connections": {
+          "inlet_outlet": "2” to 20” flanged EN 1092-1",
+          "drain": "1” to 2” thrdF"
+        },
+        "max_working_temperature": "60 °C (140 °F)",
+        "dimensions": {
+          "shape": "L",
+          "model": "AHC L20",
+          "max_flow_rate": "2750 m3/h",
+          "dimensions": {
+            "A": "1200 mm",
+            "B": "1016 mm",
+            "C": "5600 mm",
+            "D": "5100 mm",
+            "E": "150 mm",
+            "weight": "1900 Kg"
+          }
+        }
+      },
+      "keywords": ["liquid-solid separator filter", "painted FeC", "AISI 304", "AISI 316", "max flow rate 2750 m3/h", "connections flanged", "max working temperature 60 °C", "dimensions"]
+    },
+    {
+      "file": "Alfawater-AMA-filters-L.pdf",
+      "product_properties": {
+        "type": "Self-cleaning microfiltration filter",
+        "housing_material": "AISI 304, AISI 316, FRP",
+        "max_flow_rate": "300 m3/h (1320 US gpm)",
+        "screen_area": "220000 cm2",
+        "filtration_degrees": "1, 5, 10, 25 µm",
+        "connections": {
+          "inlet_outlet": "2” to 8” flanged EN 1092-1",
+          "drain": "3” to 4” flanged EN 1092-1"
+        },
+        "max_working_temperature": "60 °C (140 °F)",
+        "dimensions": {
+          "shape": "S",
+          "model": "AMA 2200S8B5",
+          "max_flow_rate": "300 m3/h",
+          "dimensions": {
+            "A": "1350 mm",
+            "B": "2410 mm",
+            "C": "2003 mm",
+            "D": "1520 mm",
+            "E": "470 mm",
+            "F": "1774 mm",
+            "G": "154 mm",
+            "H": "1040 mm",
+            "weight": "710 Kg"
+          }
+        }
+      },
+      "keywords": ["self-cleaning filter", "microfiltration", "AISI 304", "AISI 316", "FRP", "max flow rate 300 m3/h", "screen area 220000 cm2", "filtration 1 µm", "connections flanged", "max working temperature 60 °C", "dimensions"]
+    },
+    {
+      "file": "Alfawater-AMB-filters-L.pdf",
+      "product_properties": {
+        "type": "Inline basket strainer",
+        "housing_material": "Stainless steel",
+        "max_flow_rate": "350 m3/h (1540 US gpm)",
+        "screen_area": "2200 cm2",
+        "filtration_degrees": "1000, 2000, 5000 µm",
+        "connections": {
+          "inlet_outlet": "1”½ to 6” flanged EN 1092-1",
+          "drain": "½” thrdF"
+        },
+        "max_working_temperature": "95 °C (200 °F)",
+        "dimensions": {
+          "shape": "T",
+          "model": "AMB 22T6",
+          "max_flow_rate": "350 m3/h",
+          "dimensions": {
+            "A": "480 mm",
+            "B": "273 mm",
+            "C": "390 mm",
+            "D": "230 mm",
+            "X": "500 mm",
+            "weight": "36 Kg"
+          }
+        }
+      },
+      "keywords": ["inline basket strainer", "stainless steel housing", "max flow rate 350 m3/h", "screen area 2200 cm2", "filtration 1000 µm", "connections flanged", "max working temperature 95 °C", "dimensions"]
+    },
+    {
+      "file": "Alfawater-ASF-filters-L.pdf",
+      "product_properties": {
+        "type": "Manual screen filter",
+        "housing_material": "Stainless steel",
+        "max_flow_rate": "1400 m3/h (6164 US gpm)",
+        "screen_area": "19800 cm2",
+        "filtration_degrees": "10, 25, 50, 100, 200, 400, 500, 800, 1000 µm",
+        "connections": {
+          "inlet_outlet": "2” to 16” flanged EN 1092-1",
+          "drain": "1” thrdF"
+        },
+        "max_working_temperature": "80 °C (176 °F)",
+        "dimensions": {
+          "shape": "H",
+          "model": "ASF 55H8",
+          "max_flow_rate": "390 m3/h",
+          "dimensions": {
+            "A": "1525 mm",
+            "B": "510 mm",
+            "C": "640 mm",
+            "D": "280 mm",
+            "E": "237 mm",
+            "X": "900 mm",
+            "weight": "78 Kg"
+          }
+        }
+      },
+      "keywords": ["manual screen filter", "stainless steel housing", "max flow rate 1400 m3/h", "screen area 19800 cm2", "filtration 10 µm", "connections flanged", "max working temperature 80 °C", "dimensions"]
+    },
+    {
+      "file": "Alfawater-AVB-filters-L.pdf",
+      "product_properties": {
+        "type": "Pre-filtration strainer with reusable stainless steel basket",
+        "housing_material": "Stainless steel",
+        "max_flow_rate": "600 m3/h (2642 US gpm)",
+        "screen_area": "8100 cm2",
+        "filtration_degrees": "100, 200, 500, 1000, 2000, 5000 µm",
+        "connections": {
+          "inlet_outlet": "2” to 10” flanged EN 1092-1",
+          "drain": "1” thrdF"
+        },
+        "max_working_temperature": "80 °C (140 °F)",
+        "dimensions": {
+          "shape": "Z",
+          "model": "ABK 81Z10",
+          "max_flow_rate": "600 m3/h",
+          "dimensions": {
+            "A": "1700 mm",
+            "B": "1300 mm",
+            "C": "650 mm",
+            "D": "450 mm",
+            "E": "150 mm",
+            "weight": "105 Kg"
+          }
+        }
+      },
+      "keywords": ["pre-filtration strainer", "reusable basket", "stainless steel housing", "max flow rate 600 m3/h", "screen area 8100 cm2", "filtration 100 µm", "connections flanged", "max working temperature 80 °C", "dimensions"]
+    }
+  ]
+  

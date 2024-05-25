@@ -1,0 +1,318 @@
+ABF filters
+                          Brochure 
+
+The ABF is a compact, under-vacuum filter that use a filter support made of non-
+woven disposable roll. 
+The  filter  is  composed  of  two  tanks.  The  internal  one  is  dedicated  at  the  gross 
+filtration, while the external one contains the leakage and/or the overflow. 
+
+The  dirty  fluid pours  into  the  upper  compartment  of  the  tank,  passes  through  the 
+filtering  paper,  which  retains  the  contaminant  contained  in  the  liquid,  and  the 
+resulting purified liquid flows in the tank underneath. 
+The  layer  of  dirt  retained  by  the  paper  is  called  “cake”.  It  improves  the  filtering 
+process. 
+
+The compartment containing the clean water, is part of the first tank. It is maintained 
+under depression using a suction pump for the permeate.  
+The depression in the filtration chamber is between (-0,2 ÷ -0,4bar) 
+
+Thanks to the mechanical seal obtained by filter tissue and the rotating discs, it is 
+possible to maintain in depression the filter paper, thus increasing considerably its 
+life cycle. 
+
+The progressive clogging of the filter medium, causes the increase in the fluid level 
+inside the first tank. By means of a dedicated controller with an inverter, this increase 
+of the fluid level generates the wrapping of the filter paper. 
+
+The ABF filtration system can be implemented with the OilRepellentTM filter. 
+
+L’  ABF  è  un  filtro  a  gravità  con  dimensioni  molto  contenute  e  supporto  filtrante 
+costituito da un telo in tessuto non tessuto a perdere. 
+Il  filtro  è  suddiviso  in  due  vasche  di  cui  la  prima  interna  è  dedita  al  filtraggio 
+dell’acqua  grezza,  la  seconda  esterna  per  il  contenimento  di  percolamenti  e/o 
+overflow. 
+
+Il liquido sporco cade nel compartimento superiore della vasca interna, attraversa 
+il  telo  filtrante  sul  quale  deposita  il  contaminante  e  passa  nel  compartimento  del 
+pulito sottostante. 
+Lo strato di solido trattenuto sulla supercie del telo, chiamato “cake” , contribuisce 
+a migliorare le prestazioni di filtraggio. 
+
+Il compartimento del pulito, che fa parte della prima vasca è tenuto in depressione 
+con  una  pompa  di  suzione  del  permeato  in  grado  di  generare  una  suzione  nella 
+camera di filtrazione compresa tra (-0,2 ÷ -0,4 bar). 
+
+Grazie alle caratteristiche delle tenute meccaniche della vasca interna accoppiate 
+al nastro filtrante e dischi con tenuta rotante è possibile mantenere in depressione 
+il telo filtrante aumentandone notevolmente la durata. 
+
+Il progressivo intasamento del mezzo filtrante determina un aumento del livello di 
+liquido all’interno del filtro che a sua volta provoca, tramite un controllo opportuno, 
+con inverter, l’avanzamento del telo filtrante. 
+
+Il fango separato, unitamente al telo consumato, viene riavvolto in automatico in un 
+apposito rotolo a perdere. 
+
+L’ ABF per la sua tipologia costruttiva può essere potenziata con l’aggiunta di un 
+filtro Oil RepellentTM. 
+
+Pag. 2 di 4 
+ABF Brochure 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABF filters
+                          Brochure 
+
+TECHNICAL DATA - DATI TECNICI 
+
+Filter size - Taglia filtro 
+
+General data - Dati generali 
+
+INLET diameter 
+Diametro conessioni IN 
+
+OUTLET diameter 
+Diametro conessioni OUT 
+
+DRAIN/OVERFLOW diameter 
+Diametro conessioni DRAIN/OVERFLOW 
+
+Max flow rate  
+Portata massima 
+
+Max working temperature 
+Temperatura massima 
+
+Screen elements – Elementi filtranti 
+
+Screen Area 
+Area filtrante 
+
+Filtration degrees 
+Gradi di filtrazione 
+
+Screen type 
+Tipologia elemento filtrante 
+
+Electrical data – Dati elettrici 
+
+Supply voltage 
+Tensione di alimentazione 
+
+Control voltage 
+Voltaggio di comando 
+
+Elecric motors power 
+Potenza elettrica motori 
+
+Materials – Materiali 
+
+Filter Tank 
+Vasca filtro 
+
+Cover 
+Coperchio 
+
+Roll Support 
+Supporto nastro 
+
+Gaskets 
+Guarnizioni  
+
+Rotating disks 
+Dischi rotanti 
+
+45 
+
+3” flanged 
+EN 1092-1 
+
+2”½ flanged 
+EN 1092-1 
+
+2” flanged 
+EN 1092-1 
+
+30 m2/h  
+132 US gpm 
+
+40 °C 
+104 °F 
+
+4500 cm2  
+698 in2 
+
+50 / 30 / 10 / 5 µm 
+
+Viscous polyester tissue 
+Tessuto di poliestere viscoso 
+
+230 Vac 1-phase 50/60 Hz 
+Optional: 400 Vac 3-phases 50/60 Hz 
+
+24 Vdc 
+
+1 + 0,8 kW 
+
+AISI 304 / AISI 316 / SAF 2205 / SAF 2507 / 254 SMO 
+
+AISI 304 / AISI 316 
+
+Polymeric Ribbon 
+
+EPDM 
+
+PVC 
+
+Pag. 3 di 4 
+ABF Brochure 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABF filters
+                          Brochure 
+
+DIMENSIONS - DIMENSIONI 
+
+Shape C - Forma C 
+
+Filter Model 
+Modello filtro 
+
+In/Out 
+Conn. 
+
+Drain 
+Conn. 
+
+Filter 
+Area 
+[cm²] 
+
+Max 
+Flow 
+rate 
+[m3/h] 
+
+A 
+[mm] 
+
+B 
+[mm] 
+
+C 
+[mm] 
+
+D 
+[mm] 
+
+E 
+[mm] 
+
+F 
+[mm] 
+
+G 
+[mm] 
+
+H 
+[mm] 
+
+I 
+[mm] 
+
+J 
+[mm] 
+
+X 
+[mm] 
+
+Weight 
+[Kg] 
+
+ABF 45C3 
+
+3” flg + 
+2”½ flg 
+
+2” flg 
+
+4500 
+
+30 
+
+2070 
+
+915  1345  1520  818  140  1070  440  310  350  300 
+
+480 
+
+Lenntech
+
+info@lenntech.com   Tel. +31-152-610-900
+info@lenntech.com   Tel. +31-152-610-900
+www.lenntech.com   Fax. +31-152-616-289
+www.lenntech.com   Fax. +31-152-616-289
+
+Pag. 4 di 4 
+ABF Brochure 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
