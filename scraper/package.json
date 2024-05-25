@@ -1,0 +1,21 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "Tool to gather product specifications from PDF files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PDF",
+    "scraper"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
