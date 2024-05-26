@@ -46,8 +46,9 @@ export const parseProduct = (path: string) => {
     for (let i = 0; i < rows.length; i++) {
         const row = rows[i];
         const field = row.querySelectorAll("td")[0]?.innerText;
-        const value = row.querySelectorAll("td")[1]?.innerText;
+        let value = row.querySelectorAll("td")[1]?.innerText;
         if (!value) continue;
+        value = value.replace("Ø", "");
         product.attributes.push({ field, value })
     }
     return product;
