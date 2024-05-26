@@ -100,7 +100,7 @@
 			</div>
 		{/if}
 		<button class="submit-btn" formaction="?/postGpt">Submit</button>
-		{#if form?.success}
+		{#if form?.success && form?.data.length > 0}
 			<div>
 				{#each form.data as item}
 					<div>
@@ -114,7 +114,11 @@
 					</div>
 				{/each}
 			</div>
-		{/if}
+		{:else}
+        <div style="font-size: 18px; font-weight: 600; font-family: Arial, Helvetica, sans-serif; margin-top: 20px;">
+            No Results found
+        </div>
+        {/if}
 	</form>
 </div>
 
@@ -122,7 +126,7 @@
 <style>
 	:global(body) {
 		/* background-color: #161616; */
-        font-family: Arial, Helvetica, sans-serif;
+		font-family: Arial, Helvetica, sans-serif;
 	}
 
 	.logo {
