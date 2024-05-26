@@ -1,0 +1,4448 @@
+[
+    {
+        "file": "Alfawater-ABF-filters-L.pdf",
+        "product_properties": {
+            "type": "Compact, under-vacuum filter",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "30 m3/h (132 US gpm)",
+            "screen_area": "4500 cm2",
+            "filtration_degrees": "50, 30, 10, 5 µm",
+            "connections": {
+                "inlet": "3” flanged EN 1092-1",
+                "outlet": "2”½ flanged EN 1092-1",
+                "drain_overflow": "2” flanged EN 1092-1"
+            },
+            "max_working_temperature": "40 °C (104 °F)",
+            "electrical_data": {
+                "supply_voltage": "230 Vac 1-phase 50/60 Hz (optional: 400 Vac 3-phases 50/60 Hz)",
+                "control_voltage": "24 Vdc",
+                "motor_power": "1 + 0.8 kW"
+            },
+            "dimensions": {
+                "shape": "C",
+                "model": "ABF 45C3",
+                "max_flow_rate": "30 m3/h",
+                "dimensions": {
+                    "A": "2070 mm",
+                    "B": "915 mm",
+                    "C": "1345 mm",
+                    "D": "1520 mm",
+                    "E": "818 mm",
+                    "F": "140 mm",
+                    "G": "1070 mm",
+                    "H": "440 mm",
+                    "I": "310 mm",
+                    "J": "350 mm",
+                    "X": "300 mm",
+                    "weight": "480 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "compact filter",
+            "under-vacuum filter",
+            "stainless steel housing",
+            "max flow rate 30 m3/h",
+            "screen area 4500 cm2",
+            "filtration 50 µm",
+            "connections flanged",
+            "max working temperature 40 °C",
+            "electrical data"
+        ]
+    },
+    {
+        "file": "Alfawater-ABG-filters-L.pdf",
+        "product_properties": {
+            "type": "Bag filter with stainless housing",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "70 m3/h (308 US gpm)",
+            "screen_area": "4500 cm2",
+            "filtration_degrees": "200, 100, 50, 25, 10, 5, 1 µm",
+            "connections": {
+                "inlet_outlet": "2” / 3” F threaded or Victaulic",
+                "drain": "1” thrdF"
+            },
+            "max_working_temperature": "80 °C (176 °F)",
+            "dimensions": {
+                "shape": "Z",
+                "model": "ABG 45Z2",
+                "max_flow_rate": "30 m3/h",
+                "dimensions": {
+                    "A": "1270 mm",
+                    "B": "1370 mm",
+                    "C": "1080 mm",
+                    "D": "1180 mm",
+                    "E": "920 mm",
+                    "X": "160 mm",
+                    "weight": "32 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "bag filter",
+            "stainless housing",
+            "max flow rate 70 m3/h",
+            "screen area 4500 cm2",
+            "filtration 200 µm",
+            "connections threaded",
+            "max working temperature 80 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ABK-filters-L.pdf",
+        "product_properties": {
+            "type": "Pre-filtration strainer with reusable stainless steel basket",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "600 m3/h (2642 US gpm)",
+            "screen_area": "8100 cm2",
+            "filtration_degrees": "100, 200, 500, 1000, 2000, 5000 µm",
+            "connections": {
+                "inlet_outlet": "2” to 10” flanged EN 1092-1",
+                "drain": "1” thrdF"
+            },
+            "max_working_temperature": "80 °C (140 °F)",
+            "dimensions": {
+                "shape": "Z",
+                "model": "ABK 81Z10",
+                "max_flow_rate": "600 m3/h",
+                "dimensions": {
+                    "A": "1700 mm",
+                    "B": "1300 mm",
+                    "C": "650 mm",
+                    "D": "450 mm",
+                    "E": "150 mm",
+                    "weight": "105 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "pre-filtration strainer",
+            "reusable basket",
+            "stainless steel housing",
+            "max flow rate 600 m3/h",
+            "screen area 8100 cm2",
+            "filtration 100 µm",
+            "connections flanged",
+            "max working temperature 80 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ABR-filters-L.pdf",
+        "product_properties": {
+            "type": "Automatic self-cleaning filter with brushes",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "390 m3/h (1717 US gpm)",
+            "screen_area": "5500 cm2",
+            "filtration_degrees": "10, 25, 50, 100, 200, 400, 500, 800, 1000 µm",
+            "connections": {
+                "inlet_outlet": "2” to 8” flanged EN 1092-1",
+                "drain": "1”½ to 2” flanged EN 1092-1"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "H",
+                "model": "ABR 55H8",
+                "max_flow_rate": "390 m3/h",
+                "dimensions": {
+                    "A": "1860 mm",
+                    "B": "601 mm",
+                    "C": "640 mm",
+                    "D": "280 mm",
+                    "E": "273 mm",
+                    "X": "900 mm",
+                    "Y": "600 mm",
+                    "weight": "112 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "automatic self-cleaning filter",
+            "brushes",
+            "stainless steel housing",
+            "max flow rate 390 m3/h",
+            "screen area 5500 cm2",
+            "filtration 10 µm",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ABV-filters-L.pdf",
+        "product_properties": {
+            "type": "Inline basket strainer",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "350 m3/h (1540 US gpm)",
+            "screen_area": "2200 cm2",
+            "filtration_degrees": "1000, 2000, 5000 µm",
+            "connections": {
+                "inlet_outlet": "1”½ to 6” flanged EN 1092-1",
+                "drain": "½” thrdF"
+            },
+            "max_working_temperature": "95 °C (200 °F)",
+            "dimensions": {
+                "shape": "T",
+                "model": "AMB 22T6",
+                "max_flow_rate": "350 m3/h",
+                "dimensions": {
+                    "A": "480 mm",
+                    "B": "273 mm",
+                    "C": "390 mm",
+                    "D": "230 mm",
+                    "X": "500 mm",
+                    "weight": "36 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "inline basket strainer",
+            "stainless steel housing",
+            "max flow rate 350 m3/h",
+            "screen area 2200 cm2",
+            "filtration 1000 µm",
+            "connections flanged",
+            "max working temperature 95 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AHC-filters-L.pdf",
+        "product_properties": {
+            "type": "Liquid-solid separator filter",
+            "housing_material": "Painted FeC, AISI 304, AISI 316",
+            "max_flow_rate": "2750 m3/h (12100 US gpm)",
+            "connections": {
+                "inlet_outlet": "2” to 20” flanged EN 1092-1",
+                "drain": "1” to 2” thrdF"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "L",
+                "model": "AHC L20",
+                "max_flow_rate": "2750 m3/h",
+                "dimensions": {
+                    "A": "1200 mm",
+                    "B": "1016 mm",
+                    "C": "5600 mm",
+                    "D": "5100 mm",
+                    "E": "150 mm",
+                    "weight": "1900 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "liquid-solid separator filter",
+            "painted FeC",
+            "AISI 304",
+            "AISI 316",
+            "max flow rate 2750 m3/h",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AMA-filters-L.pdf",
+        "product_properties": {
+            "type": "Self-cleaning microfiltration filter",
+            "housing_material": "AISI 304, AISI 316, FRP",
+            "max_flow_rate": "300 m3/h (1320 US gpm)",
+            "screen_area": "220000 cm2",
+            "filtration_degrees": "1, 5, 10, 25 µm",
+            "connections": {
+                "inlet_outlet": "2” to 8” flanged EN 1092-1",
+                "drain": "3” to 4” flanged EN 1092-1"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "S",
+                "model": "AMA 2200S8B5",
+                "max_flow_rate": "300 m3/h",
+                "dimensions": {
+                    "A": "1350 mm",
+                    "B": "2410 mm",
+                    "C": "2003 mm",
+                    "D": "1520 mm",
+                    "E": "470 mm",
+                    "F": "1774 mm",
+                    "G": "154 mm",
+                    "H": "1040 mm",
+                    "weight": "710 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "self-cleaning filter",
+            "microfiltration",
+            "AISI 304",
+            "AISI 316",
+            "FRP",
+            "max flow rate 300 m3/h",
+            "screen area 220000 cm2",
+            "filtration 1 µm",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AMB-filters-L.pdf",
+        "product_properties": {
+            "type": "Inline basket strainer",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "350 m3/h (1540 US gpm)",
+            "screen_area": "2200 cm2",
+            "filtration_degrees": "1000, 2000, 5000 µm",
+            "connections": {
+                "inlet_outlet": "1”½ to 6” flanged EN 1092-1",
+                "drain": "½” thrdF"
+            },
+            "max_working_temperature": "95 °C (200 °F)",
+            "dimensions": {
+                "shape": "T",
+                "model": "AMB 22T6",
+                "max_flow_rate": "350 m3/h",
+                "dimensions": {
+                    "A": "480 mm",
+                    "B": "273 mm",
+                    "C": "390 mm",
+                    "D": "230 mm",
+                    "X": "500 mm",
+                    "weight": "36 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "inline basket strainer",
+            "stainless steel housing",
+            "max flow rate 350 m3/h",
+            "screen area 2200 cm2",
+            "filtration 1000 µm",
+            "connections flanged",
+            "max working temperature 95 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ASF-filters-L.pdf",
+        "product_properties": {
+            "type": "Manual screen filter",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "1400 m3/h (6164 US gpm)",
+            "screen_area": "19800 cm2",
+            "filtration_degrees": "10, 25, 50, 100, 200, 400, 500, 800, 1000 µm",
+            "connections": {
+                "inlet_outlet": "2” to 16” flanged EN 1092-1",
+                "drain": "1” thrdF"
+            },
+            "max_working_temperature": "80 °C (176 °F)",
+            "dimensions": {
+                "shape": "H",
+                "model": "ASF 55H8",
+                "max_flow_rate": "390 m3/h",
+                "dimensions": {
+                    "A": "1525 mm",
+                    "B": "510 mm",
+                    "C": "640 mm",
+                    "D": "280 mm",
+                    "E": "237 mm",
+                    "X": "900 mm",
+                    "weight": "78 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "manual screen filter",
+            "stainless steel housing",
+            "max flow rate 1400 m3/h",
+            "screen area 19800 cm2",
+            "filtration 10 µm",
+            "connections flanged",
+            "max working temperature 80 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AVB-filters-L.pdf",
+        "product_properties": {
+            "type": "Pre-filtration strainer with reusable stainless steel basket",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "600 m3/h (2642 US gpm)",
+            "screen_area": "8100 cm2",
+            "filtration_degrees": "100, 200, 500, 1000, 2000, 5000 µm",
+            "connections": {
+                "inlet_outlet": "2” to 10” flanged EN 1092-1",
+                "drain": "1” thrdF"
+            },
+            "max_working_temperature": "80 °C (140 °F)",
+            "dimensions": {
+                "shape": "Z",
+                "model": "ABK 81Z10",
+                "max_flow_rate": "600 m3/h",
+                "dimensions": {
+                    "A": "1700 mm",
+                    "B": "1300 mm",
+                    "C": "650 mm",
+                    "D": "450 mm",
+                    "E": "150 mm",
+                    "weight": "105 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "pre-filtration strainer",
+            "reusable basket",
+            "stainless steel housing",
+            "max flow rate 600 m3/h",
+            "screen area 8100 cm2",
+            "filtration 100 µm",
+            "connections flanged",
+            "max working temperature 80 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ABF-filters-L.pdf",
+        "product_properties": {
+            "type": "Compact under-vacuum filter",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "30 m3/h (132 US gpm)",
+            "screen_area": "4500 cm2",
+            "filtration_degrees": "50, 30, 10, 5 µm",
+            "connections": {
+                "inlet": "3” flanged EN 1092-1",
+                "outlet": "2”½ flanged EN 1092-1",
+                "drain_overflow": "2” flanged EN 1092-1"
+            },
+            "max_working_temperature": "40 °C (104 °F)",
+            "electrical_data": {
+                "supply_voltage": "230 Vac 1-phase 50/60 Hz (optional: 400 Vac 3-phases 50/60 Hz)",
+                "control_voltage": "24 Vdc",
+                "motor_power": "1 + 0.8 kW"
+            },
+            "dimensions": {
+                "shape": "C",
+                "model": "ABF 45C3",
+                "max_flow_rate": "30 m3/h",
+                "dimensions": {
+                    "A": "2070 mm",
+                    "B": "915 mm",
+                    "C": "1345 mm",
+                    "D": "1520 mm",
+                    "E": "818 mm",
+                    "F": "140 mm",
+                    "G": "1070 mm",
+                    "H": "440 mm",
+                    "I": "310 mm",
+                    "J": "350 mm",
+                    "X": "300 mm",
+                    "weight": "480 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "compact filter",
+            "under-vacuum filter",
+            "stainless steel housing",
+            "max flow rate 30 m3/h",
+            "screen area 4500 cm2",
+            "filtration 50 µm",
+            "connections flanged",
+            "max working temperature 40 °C",
+            "electrical data"
+        ]
+    },
+    {
+        "file": "Alfawater-ABG-filters-L.pdf",
+        "product_properties": {
+            "type": "Bag filter with stainless housing",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "70 m3/h (308 US gpm)",
+            "screen_area": "4500 cm2",
+            "filtration_degrees": "200, 100, 50, 25, 10, 5, 1 µm",
+            "connections": {
+                "inlet_outlet": "2” / 3” F threaded or Victaulic",
+                "drain": "1” thrdF"
+            },
+            "max_working_temperature": "80 °C (176 °F)",
+            "dimensions": {
+                "shape": "Z",
+                "model": "ABG 45Z2",
+                "max_flow_rate": "30 m3/h",
+                "dimensions": {
+                    "A": "1270 mm",
+                    "B": "1370 mm",
+                    "C": "1080 mm",
+                    "D": "1180 mm",
+                    "E": "920 mm",
+                    "X": "160 mm",
+                    "weight": "32 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "bag filter",
+            "stainless housing",
+            "max flow rate 70 m3/h",
+            "screen area 4500 cm2",
+            "filtration 200 µm",
+            "connections threaded",
+            "max working temperature 80 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ABK-filters-L.pdf",
+        "product_properties": {
+            "type": "Pre-filtration strainer with reusable stainless steel basket",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "600 m3/h (2642 US gpm)",
+            "screen_area": "8100 cm2",
+            "filtration_degrees": "100, 200, 500, 1000, 2000, 5000 µm",
+            "connections": {
+                "inlet_outlet": "2” to 10” flanged EN 1092-1",
+                "drain": "1” thrdF"
+            },
+            "max_working_temperature": "80 °C (140 °F)",
+            "dimensions": {
+                "shape": "Z",
+                "model": "ABK 81Z10",
+                "max_flow_rate": "600 m3/h",
+                "dimensions": {
+                    "A": "1700 mm",
+                    "B": "1300 mm",
+                    "C": "650 mm",
+                    "D": "450 mm",
+                    "E": "150 mm",
+                    "weight": "105 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "pre-filtration strainer",
+            "reusable basket",
+            "stainless steel housing",
+            "max flow rate 600 m3/h",
+            "screen area 8100 cm2",
+            "filtration 100 µm",
+            "connections flanged",
+            "max working temperature 80 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ABR-filters-L.pdf",
+        "product_properties": {
+            "type": "Automatic self-cleaning filter with brushes",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "390 m3/h (1717 US gpm)",
+            "screen_area": "5500 cm2",
+            "filtration_degrees": "10, 25, 50, 100, 200, 400, 500, 800, 1000 µm",
+            "connections": {
+                "inlet_outlet": "2” to 8” flanged EN 1092-1",
+                "drain": "1”½ to 2” flanged EN 1092-1"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "H",
+                "model": "ABR 55H8",
+                "max_flow_rate": "390 m3/h",
+                "dimensions": {
+                    "A": "1860 mm",
+                    "B": "601 mm",
+                    "C": "640 mm",
+                    "D": "280 mm",
+                    "E": "273 mm",
+                    "X": "900 mm",
+                    "Y": "600 mm",
+                    "weight": "112 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "automatic self-cleaning filter",
+            "brushes",
+            "stainless steel housing",
+            "max flow rate 390 m3/h",
+            "screen area 5500 cm2",
+            "filtration 10 µm",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ABV-filters-L.pdf",
+        "product_properties": {
+            "type": "Inline basket strainer",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "350 m3/h (1540 US gpm)",
+            "screen_area": "2200 cm2",
+            "filtration_degrees": "1000, 2000, 5000 µm",
+            "connections": {
+                "inlet_outlet": "1”½ to 6” flanged EN 1092-1",
+                "drain": "½” thrdF"
+            },
+            "max_working_temperature": "95 °C (200 °F)",
+            "dimensions": {
+                "shape": "T",
+                "model": "AMB 22T6",
+                "max_flow_rate": "350 m3/h",
+                "dimensions": {
+                    "A": "480 mm",
+                    "B": "273 mm",
+                    "C": "390 mm",
+                    "D": "230 mm",
+                    "X": "500 mm",
+                    "weight": "36 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "inline basket strainer",
+            "stainless steel housing",
+            "max flow rate 350 m3/h",
+            "screen area 2200 cm2",
+            "filtration 1000 µm",
+            "connections flanged",
+            "max working temperature 95 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AHC-filters-L.pdf",
+        "product_properties": {
+            "type": "Liquid-solid separator filter",
+            "housing_material": "Painted FeC, AISI 304, AISI 316",
+            "max_flow_rate": "2750 m3/h (12100 US gpm)",
+            "connections": {
+                "inlet_outlet": "2” to 20” flanged EN 1092-1",
+                "drain": "1” to 2” thrdF"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "L",
+                "model": "AHC L20",
+                "max_flow_rate": "2750 m3/h",
+                "dimensions": {
+                    "A": "1200 mm",
+                    "B": "1016 mm",
+                    "C": "5600 mm",
+                    "D": "5100 mm",
+                    "E": "150 mm",
+                    "weight": "1900 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "liquid-solid separator filter",
+            "painted FeC",
+            "AISI 304",
+            "AISI 316",
+            "max flow rate 2750 m3/h",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AMA-filters-L.pdf",
+        "product_properties": {
+            "type": "Self-cleaning microfiltration filter",
+            "housing_material": "AISI 304, AISI 316, FRP",
+            "max_flow_rate": "300 m3/h (1320 US gpm)",
+            "screen_area": "220000 cm2",
+            "filtration_degrees": "1, 5, 10, 25 µm",
+            "connections": {
+                "inlet_outlet": "2” to 8” flanged EN 1092-1",
+                "drain": "3” to 4” flanged EN 1092-1"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "S",
+                "model": "AMA 2200S8B5",
+                "max_flow_rate": "300 m3/h",
+                "dimensions": {
+                    "A": "1350 mm",
+                    "B": "2410 mm",
+                    "C": "2003 mm",
+                    "D": "1520 mm",
+                    "E": "470 mm",
+                    "F": "1774 mm",
+                    "G": "154 mm",
+                    "H": "1040 mm",
+                    "weight": "710 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "self-cleaning filter",
+            "microfiltration",
+            "AISI 304",
+            "AISI 316",
+            "FRP",
+            "max flow rate 300 m3/h",
+            "screen area 220000 cm2",
+            "filtration 1 µm",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AMB-filters-L.pdf",
+        "product_properties": {
+            "type": "Inline basket strainer",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "350 m3/h (1540 US gpm)",
+            "screen_area": "2200 cm2",
+            "filtration_degrees": "1000, 2000, 5000 µm",
+            "connections": {
+                "inlet_outlet": "1”½ to 6” flanged EN 1092-1",
+                "drain": "½” thrdF"
+            },
+            "max_working_temperature": "95 °C (200 °F)",
+            "dimensions": {
+                "shape": "T",
+                "model": "AMB 22T6",
+                "max_flow_rate": "350 m3/h",
+                "dimensions": {
+                    "A": "480 mm",
+                    "B": "273 mm",
+                    "C": "390 mm",
+                    "D": "230 mm",
+                    "X": "500 mm",
+                    "weight": "36 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "inline basket strainer",
+            "stainless steel housing",
+            "max flow rate 350 m3/h",
+            "screen area 2200 cm2",
+            "filtration 1000 µm",
+            "connections flanged",
+            "max working temperature 95 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ASF-filters-L.pdf",
+        "product_properties": {
+            "type": "Manual screen filter",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "1400 m3/h (6164 US gpm)",
+            "screen_area": "19800 cm2",
+            "filtration_degrees": "10, 25, 50, 100, 200, 400, 500, 800, 1000 µm",
+            "connections": {
+                "inlet_outlet": "2” to 16” flanged EN 1092-1",
+                "drain": "1” thrdF"
+            },
+            "max_working_temperature": "80 °C (176 °F)",
+            "dimensions": {
+                "shape": "H",
+                "model": "ASF 55H8",
+                "max_flow_rate": "390 m3/h",
+                "dimensions": {
+                    "A": "1525 mm",
+                    "B": "510 mm",
+                    "C": "640 mm",
+                    "D": "280 mm",
+                    "E": "237 mm",
+                    "X": "900 mm",
+                    "weight": "78 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "manual screen filter",
+            "stainless steel housing",
+            "max flow rate 1400 m3/h",
+            "screen area 19800 cm2",
+            "filtration 10 µm",
+            "connections flanged",
+            "max working temperature 80 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AVB-filters-L.pdf",
+        "product_properties": {
+            "type": "Pre-filtration strainer with reusable stainless steel basket",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "600 m3/h (2642 US gpm)",
+            "screen_area": "8100 cm2",
+            "filtration_degrees": "100, 200, 500, 1000, 2000, 5000 µm",
+            "connections": {
+                "inlet_outlet": "2” to 10” flanged EN 1092-1",
+                "drain": "1” thrdF"
+            },
+            "max_working_temperature": "80 °C (140 °F)",
+            "dimensions": {
+                "shape": "Z",
+                "model": "ABK 81Z10",
+                "max_flow_rate": "600 m3/h",
+                "dimensions": {
+                    "A": "1700 mm",
+                    "B": "1300 mm",
+                    "C": "650 mm",
+                    "D": "450 mm",
+                    "E": "150 mm",
+                    "weight": "105 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "pre-filtration strainer",
+            "reusable basket",
+            "stainless steel housing",
+            "max flow rate 600 m3/h",
+            "screen area 8100 cm2",
+            "filtration 100 µm",
+            "connections flanged",
+            "max working temperature 80 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AVC-filters-L.pdf",
+        "product_properties": {
+            "type": "Automatic self-cleaning filter",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "220 m3/h (969 US gpm)",
+            "screen_area": "7200 cm2",
+            "filtration_degrees": "10, 25, 50, 100, 200, 400, 500, 800, 1000 µm",
+            "connections": {
+                "inlet_outlet": "6” flanged EN 1092-1",
+                "drain": "2” flanged EN 1092-1"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "H",
+                "model": "AVC 72H6",
+                "max_flow_rate": "220 m3/h",
+                "dimensions": {
+                    "A": "1816 mm",
+                    "B": "553 mm",
+                    "C": "1050 mm",
+                    "D": "300 mm",
+                    "E": "270 mm",
+                    "X": "1200 mm",
+                    "Y": "300 mm",
+                    "weight": "75 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "automatic self-cleaning filter",
+            "stainless steel housing",
+            "max flow rate 220 m3/h",
+            "screen area 7200 cm2",
+            "filtration 10 µm",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AVC-in-GRP-filters-L.pdf",
+        "product_properties": {
+            "type": "Automatic self-cleaning filter",
+            "housing_material": "GRP",
+            "max_flow_rate": "220 m3/h (969 US gpm)",
+            "screen_area": "7200 cm2",
+            "filtration_degrees": "10, 25, 50, 100, 200, 400, 500, 800, 1000 µm",
+            "connections": {
+                "inlet_outlet": "6” flanged EN 1092-1",
+                "drain": "2” flanged EN 1092-1"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "H",
+                "model": "AVC 72H6",
+                "max_flow_rate": "220 m3/h",
+                "dimensions": {
+                    "A": "1816 mm",
+                    "B": "553 mm",
+                    "C": "1050 mm",
+                    "D": "300 mm",
+                    "E": "270 mm",
+                    "X": "1200 mm",
+                    "Y": "300 mm",
+                    "weight": "75 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "automatic self-cleaning filter",
+            "GRP housing",
+            "max flow rate 220 m3/h",
+            "screen area 7200 cm2",
+            "filtration 10 µm",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-1K100.pdf",
+        "product_properties": {
+            "type": "Stainless steel submersible pump",
+            "models": [
+                "1K100",
+                "1K200",
+                "1K300",
+                "1K400",
+                "1K500"
+            ],
+            "flow_range": "up to 88 GPM",
+            "pressure_range": "up to 24 PSI",
+            "max_head": "55 Ft",
+            "rpm": "3450 RPM",
+            "discharge_fitting": {
+                "1/3 HP": "1-1/4 NPT",
+                "1/2-1-1/2 HP": "1-1/2 NPT"
+            },
+            "motor_phase": {
+                "single": "Class F 115V",
+                "three": "Class F 208/230V, Class F 460V"
+            },
+            "cycle": "60 Hz",
+            "cable_length": {
+                "single_phase": "20 Ft AWG 16 UL/CSA 3-Prong",
+                "three_phase": "20 Ft AWG 16 UL/CSA"
+            },
+            "float_operation": "Manual or Automatic",
+            "max_starts_per_hour": "20",
+            "max_temperature": {
+                "continuous": "122°F",
+                "intermittent": "140°F"
+            },
+            "max_solids_diameter": "3/8 inch",
+            "weight": "11-31 lbs",
+            "dimensions": {
+                "length": "10.25-17.18 inches",
+                "diameter": "6.37-8.25 inches"
+            }
+        },
+        "keywords": [
+            "stainless steel pump",
+            "submersible pump",
+            "1K100",
+            "flow range 88 GPM",
+            "pressure range 24 PSI",
+            "3450 RPM",
+            "discharge fitting",
+            "motor phase",
+            "cycle 60 Hz",
+            "float operation",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-2FS-10-20-30-ES-GSF-L.pdf",
+        "product_properties": {
+            "type": "High-pressure plunger pump",
+            "models": [
+                "2FS10",
+                "2FS20",
+                "2FS30"
+            ],
+            "flow_range": "10-30 GPM",
+            "pressure_range": "up to 5000 PSI",
+            "rpm": "1450 RPM",
+            "crankcase_capacity": "41 oz",
+            "max_temperature": "160°F",
+            "inlet_ports": "3/4” NPTF",
+            "discharge_ports": "1/2” NPTF",
+            "weight": "40 lbs",
+            "dimensions": {
+                "length": "12.83 inches",
+                "width": "9.45 inches",
+                "height": "7.87 inches"
+            }
+        },
+        "keywords": [
+            "high-pressure pump",
+            "plunger pump",
+            "2FS10",
+            "flow range 10-30 GPM",
+            "pressure range 5000 PSI",
+            "1450 RPM",
+            "crankcase capacity",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-3CP1120-G.pdf",
+        "product_properties": {
+            "type": "Triplex plunger pump",
+            "models": [
+                "3CP1120",
+                "3CP1130",
+                "3CP1140",
+                "3CP1120G"
+            ],
+            "flow_range": "up to 4.2 GPM",
+            "pressure_range": "up to 2000 PSI",
+            "rpm": "1725 RPM",
+            "max_temperature": "160°F",
+            "inlet_ports": "1/2” NPTF",
+            "discharge_ports": "3/8” NPTF",
+            "weight": "14.84 lbs",
+            "dimensions": {
+                "length": "9.69 inches",
+                "width": "8.78 inches",
+                "height": "5.35 inches"
+            }
+        },
+        "keywords": [
+            "triplex plunger pump",
+            "3CP1120",
+            "flow range 4.2 GPM",
+            "pressure range 2000 PSI",
+            "1725 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-3CP1221-L.pdf",
+        "product_properties": {
+            "type": "Electric horsepower triplex plunger pump",
+            "models": [
+                "3CP1221",
+                "3CP1231",
+                "3CP1241"
+            ],
+            "flow_range": "2.3-4.2 GPM",
+            "pressure_range": "100-2000 PSI",
+            "rpm": "1725 RPM",
+            "max_temperature": "160°F",
+            "inlet_ports": "1/2” NPTF",
+            "discharge_ports": "3/8” NPTF",
+            "weight": "14.84 lbs",
+            "dimensions": {
+                "length": "9.69 inches",
+                "width": "8.78 inches",
+                "height": "5.35 inches"
+            }
+        },
+        "keywords": [
+            "electric horsepower pump",
+            "triplex plunger pump",
+            "3CP1221",
+            "flow range 2.3-4.2 GPM",
+            "pressure range 2000 PSI",
+            "1725 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-3DX29GSI-3DX30GSI-L.pdf",
+        "product_properties": {
+            "type": "Direct-drive plunger pump",
+            "models": [
+                "3DX29GSI",
+                "3DX30GSI"
+            ],
+            "flow_range": "2.9-3.0 GPM",
+            "pressure_range": "up to 2500 PSI",
+            "rpm": "3450 RPM",
+            "max_temperature": "140°F",
+            "inlet_ports": "3/4” GHF",
+            "discharge_ports": "3/8” NPTM",
+            "weight": "10.7 lbs",
+            "dimensions": {
+                "length": "7.99 inches",
+                "width": "7.75 inches",
+                "height": "6.29 inches"
+            }
+        },
+        "keywords": [
+            "direct-drive pump",
+            "plunger pump",
+            "3DX29GSI",
+            "flow range 2.9-3.0 GPM",
+            "pressure range 2500 PSI",
+            "3450 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-4DNX25GSI_B-L.pdf",
+        "product_properties": {
+            "type": "Direct-drive plunger pump",
+            "models": [
+                "4DNX25GSI",
+                "4DNX27GSI"
+            ],
+            "flow_range": "2.5-2.7 GPM",
+            "pressure_range": "up to 2850 PSI",
+            "rpm": "3450 RPM",
+            "max_temperature": "140°F",
+            "inlet_ports": "3/4” GHF",
+            "discharge_ports": "3/8” NPTM",
+            "weight": "10.7 lbs",
+            "dimensions": {
+                "length": "8.03 inches",
+                "width": "7.83 inches",
+                "height": "6.61 inches"
+            }
+        },
+        "keywords": [
+            "direct-drive pump",
+            "plunger pump",
+            "4DNX25GSI",
+            "flow range 2.5-2.7 GPM",
+            "pressure range 2850 PSI",
+            "3450 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-4DX03ELR-L.pdf",
+        "product_properties": {
+            "type": "Direct-drive plunger pump",
+            "model": "4DX03ELR",
+            "flow": "0.3 GPM",
+            "max_discharge_pressure": "2000 PSI",
+            "rpm": "1750 RPM",
+            "inlet_pressure_range": "Flooded to 60 PSI",
+            "bore": "0.630 inches",
+            "stroke": "0.078 inches",
+            "crankcase_capacity": "8.5 oz",
+            "max_liquid_temperature": "140°F",
+            "inlet_ports": "3/8” NPT(F)",
+            "discharge_ports": "3/8” NPT(M)",
+            "shaft_diameter": "5/8 inches",
+            "weight": "10.7 lbs",
+            "dimensions": {
+                "length": "7.17 inches",
+                "width": "7.72 inches",
+                "height": "6.22 inches"
+            }
+        },
+        "keywords": [
+            "direct-drive pump",
+            "plunger pump",
+            "4DX03ELR",
+            "flow 0.3 GPM",
+            "pressure 2000 PSI",
+            "1750 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ABF-filters-L.pdf",
+        "product_properties": {
+            "type": "Compact under-vacuum filter",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "30 m3/h (132 US gpm)",
+            "screen_area": "4500 cm2",
+            "filtration_degrees": "50, 30, 10, 5 µm",
+            "connections": {
+                "inlet": "3” flanged EN 1092-1",
+                "outlet": "2”½ flanged EN 1092-1",
+                "drain_overflow": "2” flanged EN 1092-1"
+            },
+            "max_working_temperature": "40 °C (104 °F)",
+            "electrical_data": {
+                "supply_voltage": "230 Vac 1-phase 50/60 Hz (optional: 400 Vac 3-phases 50/60 Hz)",
+                "control_voltage": "24 Vdc",
+                "motor_power": "1 + 0.8 kW"
+            },
+            "dimensions": {
+                "shape": "C",
+                "model": "ABF 45C3",
+                "max_flow_rate": "30 m3/h",
+                "dimensions": {
+                    "A": "2070 mm",
+                    "B": "915 mm",
+                    "C": "1345 mm",
+                    "D": "1520 mm",
+                    "E": "818 mm",
+                    "F": "140 mm",
+                    "G": "1070 mm",
+                    "H": "440 mm",
+                    "I": "310 mm",
+                    "J": "350 mm",
+                    "X": "300 mm",
+                    "weight": "480 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "compact filter",
+            "under-vacuum filter",
+            "stainless steel housing",
+            "max flow rate 30 m3/h",
+            "screen area 4500 cm2",
+            "filtration 50 µm",
+            "connections flanged",
+            "max working temperature 40 °C",
+            "electrical data"
+        ]
+    },
+    {
+        "file": "Alfawater-ABG-filters-L.pdf",
+        "product_properties": {
+            "type": "Bag filter with stainless housing",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "70 m3/h (308 US gpm)",
+            "screen_area": "4500 cm2",
+            "filtration_degrees": "200, 100, 50, 25, 10, 5, 1 µm",
+            "connections": {
+                "inlet_outlet": "2” / 3” F threaded or Victaulic",
+                "drain": "1” thrdF"
+            },
+            "max_working_temperature": "80 °C (176 °F)",
+            "dimensions": {
+                "shape": "Z",
+                "model": "ABG 45Z2",
+                "max_flow_rate": "30 m3/h",
+                "dimensions": {
+                    "A": "1270 mm",
+                    "B": "1370 mm",
+                    "C": "1080 mm",
+                    "D": "1180 mm",
+                    "E": "920 mm",
+                    "X": "160 mm",
+                    "weight": "32 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "bag filter",
+            "stainless housing",
+            "max flow rate 70 m3/h",
+            "screen area 4500 cm2",
+            "filtration 200 µm",
+            "connections threaded",
+            "max working temperature 80 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ABK-filters-L.pdf",
+        "product_properties": {
+            "type": "Pre-filtration strainer with reusable stainless steel basket",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "600 m3/h (2642 US gpm)",
+            "screen_area": "8100 cm2",
+            "filtration_degrees": "100, 200, 500, 1000, 2000, 5000 µm",
+            "connections": {
+                "inlet_outlet": "2” to 10” flanged EN 1092-1",
+                "drain": "1” thrdF"
+            },
+            "max_working_temperature": "80 °C (140 °F)",
+            "dimensions": {
+                "shape": "Z",
+                "model": "ABK 81Z10",
+                "max_flow_rate": "600 m3/h",
+                "dimensions": {
+                    "A": "1700 mm",
+                    "B": "1300 mm",
+                    "C": "650 mm",
+                    "D": "450 mm",
+                    "E": "150 mm",
+                    "weight": "105 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "pre-filtration strainer",
+            "reusable basket",
+            "stainless steel housing",
+            "max flow rate 600 m3/h",
+            "screen area 8100 cm2",
+            "filtration 100 µm",
+            "connections flanged",
+            "max working temperature 80 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ABR-filters-L.pdf",
+        "product_properties": {
+            "type": "Automatic self-cleaning filter with brushes",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "390 m3/h (1717 US gpm)",
+            "screen_area": "5500 cm2",
+            "filtration_degrees": "10, 25, 50, 100, 200, 400, 500, 800, 1000 µm",
+            "connections": {
+                "inlet_outlet": "2” to 8” flanged EN 1092-1",
+                "drain": "1”½ to 2” flanged EN 1092-1"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "H",
+                "model": "ABR 55H8",
+                "max_flow_rate": "390 m3/h",
+                "dimensions": {
+                    "A": "1860 mm",
+                    "B": "601 mm",
+                    "C": "640 mm",
+                    "D": "280 mm",
+                    "E": "273 mm",
+                    "X": "900 mm",
+                    "Y": "600 mm",
+                    "weight": "112 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "automatic self-cleaning filter",
+            "brushes",
+            "stainless steel housing",
+            "max flow rate 390 m3/h",
+            "screen area 5500 cm2",
+            "filtration 10 µm",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ABV-filters-L.pdf",
+        "product_properties": {
+            "type": "Inline basket strainer",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "350 m3/h (1540 US gpm)",
+            "screen_area": "2200 cm2",
+            "filtration_degrees": "1000, 2000, 5000 µm",
+            "connections": {
+                "inlet_outlet": "1”½ to 6” flanged EN 1092-1",
+                "drain": "½” thrdF"
+            },
+            "max_working_temperature": "95 °C (200 °F)",
+            "dimensions": {
+                "shape": "T",
+                "model": "AMB 22T6",
+                "max_flow_rate": "350 m3/h",
+                "dimensions": {
+                    "A": "480 mm",
+                    "B": "273 mm",
+                    "C": "390 mm",
+                    "D": "230 mm",
+                    "X": "500 mm",
+                    "weight": "36 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "inline basket strainer",
+            "stainless steel housing",
+            "max flow rate 350 m3/h",
+            "screen area 2200 cm2",
+            "filtration 1000 µm",
+            "connections flanged",
+            "max working temperature 95 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AHC-filters-L.pdf",
+        "product_properties": {
+            "type": "Liquid-solid separator filter",
+            "housing_material": "Painted FeC, AISI 304, AISI 316",
+            "max_flow_rate": "2750 m3/h (12100 US gpm)",
+            "connections": {
+                "inlet_outlet": "2” to 20” flanged EN 1092-1",
+                "drain": "1” to 2” thrdF"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "L",
+                "model": "AHC L20",
+                "max_flow_rate": "2750 m3/h",
+                "dimensions": {
+                    "A": "1200 mm",
+                    "B": "1016 mm",
+                    "C": "5600 mm",
+                    "D": "5100 mm",
+                    "E": "150 mm",
+                    "weight": "1900 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "liquid-solid separator filter",
+            "painted FeC",
+            "AISI 304",
+            "AISI 316",
+            "max flow rate 2750 m3/h",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AMA-filters-L.pdf",
+        "product_properties": {
+            "type": "Self-cleaning microfiltration filter",
+            "housing_material": "AISI 304, AISI 316, FRP",
+            "max_flow_rate": "300 m3/h (1320 US gpm)",
+            "screen_area": "220000 cm2",
+            "filtration_degrees": "1, 5, 10, 25 µm",
+            "connections": {
+                "inlet_outlet": "2” to 8” flanged EN 1092-1",
+                "drain": "3” to 4” flanged EN 1092-1"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "S",
+                "model": "AMA 2200S8B5",
+                "max_flow_rate": "300 m3/h",
+                "dimensions": {
+                    "A": "1350 mm",
+                    "B": "2410 mm",
+                    "C": "2003 mm",
+                    "D": "1520 mm",
+                    "E": "470 mm",
+                    "F": "1774 mm",
+                    "G": "154 mm",
+                    "H": "1040 mm",
+                    "weight": "710 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "self-cleaning filter",
+            "microfiltration",
+            "AISI 304",
+            "AISI 316",
+            "FRP",
+            "max flow rate 300 m3/h",
+            "screen area 220000 cm2",
+            "filtration 1 µm",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AMB-filters-L.pdf",
+        "product_properties": {
+            "type": "Inline basket strainer",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "350 m3/h (1540 US gpm)",
+            "screen_area": "2200 cm2",
+            "filtration_degrees": "1000, 2000, 5000 µm",
+            "connections": {
+                "inlet_outlet": "1”½ to 6” flanged EN 1092-1",
+                "drain": "½” thrdF"
+            },
+            "max_working_temperature": "95 °C (200 °F)",
+            "dimensions": {
+                "shape": "T",
+                "model": "AMB 22T6",
+                "max_flow_rate": "350 m3/h",
+                "dimensions": {
+                    "A": "480 mm",
+                    "B": "273 mm",
+                    "C": "390 mm",
+                    "D": "230 mm",
+                    "X": "500 mm",
+                    "weight": "36 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "inline basket strainer",
+            "stainless steel housing",
+            "max flow rate 350 m3/h",
+            "screen area 2200 cm2",
+            "filtration 1000 µm",
+            "connections flanged",
+            "max working temperature 95 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ASF-filters-L.pdf",
+        "product_properties": {
+            "type": "Manual screen filter",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "1400 m3/h (6164 US gpm)",
+            "screen_area": "19800 cm2",
+            "filtration_degrees": "10, 25, 50, 100, 200, 400, 500, 800, 1000 µm",
+            "connections": {
+                "inlet_outlet": "2” to 16” flanged EN 1092-1",
+                "drain": "1” thrdF"
+            },
+            "max_working_temperature": "80 °C (176 °F)",
+            "dimensions": {
+                "shape": "H",
+                "model": "ASF 55H8",
+                "max_flow_rate": "390 m3/h",
+                "dimensions": {
+                    "A": "1525 mm",
+                    "B": "510 mm",
+                    "C": "640 mm",
+                    "D": "280 mm",
+                    "E": "237 mm",
+                    "X": "900 mm",
+                    "weight": "78 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "manual screen filter",
+            "stainless steel housing",
+            "max flow rate 1400 m3/h",
+            "screen area 19800 cm2",
+            "filtration 10 µm",
+            "connections flanged",
+            "max working temperature 80 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AVB-filters-L.pdf",
+        "product_properties": {
+            "type": "Pre-filtration strainer with reusable stainless steel basket",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "600 m3/h (2642 US gpm)",
+            "screen_area": "8100 cm2",
+            "filtration_degrees": "100, 200, 500, 1000, 2000, 5000 µm",
+            "connections": {
+                "inlet_outlet": "2” to 10” flanged EN 1092-1",
+                "drain": "1” thrdF"
+            },
+            "max_working_temperature": "80 °C (140 °F)",
+            "dimensions": {
+                "shape": "Z",
+                "model": "ABK 81Z10",
+                "max_flow_rate": "600 m3/h",
+                "dimensions": {
+                    "A": "1700 mm",
+                    "B": "1300 mm",
+                    "C": "650 mm",
+                    "D": "450 mm",
+                    "E": "150 mm",
+                    "weight": "105 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "pre-filtration strainer",
+            "reusable basket",
+            "stainless steel housing",
+            "max flow rate 600 m3/h",
+            "screen area 8100 cm2",
+            "filtration 100 µm",
+            "connections flanged",
+            "max working temperature 80 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AVC-filters-L.pdf",
+        "product_properties": {
+            "type": "Automatic self-cleaning filter",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "220 m3/h (969 US gpm)",
+            "screen_area": "7200 cm2",
+            "filtration_degrees": "10, 25, 50, 100, 200, 400, 500, 800, 1000 µm",
+            "connections": {
+                "inlet_outlet": "6” flanged EN 1092-1",
+                "drain": "2” flanged EN 1092-1"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "H",
+                "model": "AVC 72H6",
+                "max_flow_rate": "220 m3/h",
+                "dimensions": {
+                    "A": "1816 mm",
+                    "B": "553 mm",
+                    "C": "1050 mm",
+                    "D": "300 mm",
+                    "E": "270 mm",
+                    "X": "1200 mm",
+                    "Y": "300 mm",
+                    "weight": "75 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "automatic self-cleaning filter",
+            "stainless steel housing",
+            "max flow rate 220 m3/h",
+            "screen area 7200 cm2",
+            "filtration 10 µm",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AVC-in-GRP-filters-L.pdf",
+        "product_properties": {
+            "type": "Automatic self-cleaning filter",
+            "housing_material": "GRP",
+            "max_flow_rate": "220 m3/h (969 US gpm)",
+            "screen_area": "7200 cm2",
+            "filtration_degrees": "10, 25, 50, 100, 200, 400, 500, 800, 1000 µm",
+            "connections": {
+                "inlet_outlet": "6” flanged EN 1092-1",
+                "drain": "2” flanged EN 1092-1"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "H",
+                "model": "AVC 72H6",
+                "max_flow_rate": "220 m3/h",
+                "dimensions": {
+                    "A": "1816 mm",
+                    "B": "553 mm",
+                    "C": "1050 mm",
+                    "D": "300 mm",
+                    "E": "270 mm",
+                    "X": "1200 mm",
+                    "Y": "300 mm",
+                    "weight": "75 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "automatic self-cleaning filter",
+            "GRP housing",
+            "max flow rate 220 m3/h",
+            "screen area 7200 cm2",
+            "filtration 10 µm",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-1K100.pdf",
+        "product_properties": {
+            "type": "Stainless steel submersible pump",
+            "models": [
+                "1K100",
+                "1K200",
+                "1K300",
+                "1K400",
+                "1K500"
+            ],
+            "flow_range": "up to 88 GPM",
+            "pressure_range": "up to 24 PSI",
+            "max_head": "55 Ft",
+            "rpm": "3450 RPM",
+            "discharge_fitting": {
+                "1/3 HP": "1-1/4 NPT",
+                "1/2-1-1/2 HP": "1-1/2 NPT"
+            },
+            "motor_phase": {
+                "single": "Class F 115V",
+                "three": "Class F 208/230V, Class F 460V"
+            },
+            "cycle": "60 Hz",
+            "cable_length": {
+                "single_phase": "20 Ft AWG 16 UL/CSA 3-Prong",
+                "three_phase": "20 Ft AWG 16 UL/CSA"
+            },
+            "float_operation": "Manual or Automatic",
+            "max_starts_per_hour": "20",
+            "max_temperature": {
+                "continuous": "122°F",
+                "intermittent": "140°F"
+            },
+            "max_solids_diameter": "3/8 inch",
+            "weight": "11-31 lbs",
+            "dimensions": {
+                "length": "10.25-17.18 inches",
+                "diameter": "6.37-8.25 inches"
+            }
+        },
+        "keywords": [
+            "stainless steel pump",
+            "submersible pump",
+            "1K100",
+            "flow range 88 GPM",
+            "pressure range 24 PSI",
+            "3450 RPM",
+            "discharge fitting",
+            "motor phase",
+            "cycle 60 Hz",
+            "float operation",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-2FS-10-20-30-ES-GSF-L.pdf",
+        "product_properties": {
+            "type": "High-pressure plunger pump",
+            "models": [
+                "2FS10",
+                "2FS20",
+                "2FS30"
+            ],
+            "flow_range": "10-30 GPM",
+            "pressure_range": "up to 5000 PSI",
+            "rpm": "1450 RPM",
+            "crankcase_capacity": "41 oz",
+            "max_temperature": "160°F",
+            "inlet_ports": "3/4” NPTF",
+            "discharge_ports": "1/2” NPTF",
+            "weight": "40 lbs",
+            "dimensions": {
+                "length": "12.83 inches",
+                "width": "9.45 inches",
+                "height": "7.87 inches"
+            }
+        },
+        "keywords": [
+            "high-pressure pump",
+            "plunger pump",
+            "2FS10",
+            "flow range 10-30 GPM",
+            "pressure range 5000 PSI",
+            "1450 RPM",
+            "crankcase capacity",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-3CP1120-G.pdf",
+        "product_properties": {
+            "type": "Triplex plunger pump",
+            "models": [
+                "3CP1120",
+                "3CP1130",
+                "3CP1140",
+                "3CP1120G"
+            ],
+            "flow_range": "up to 4.2 GPM",
+            "pressure_range": "up to 2000 PSI",
+            "rpm": "1725 RPM",
+            "max_temperature": "160°F",
+            "inlet_ports": "1/2” NPTF",
+            "discharge_ports": "3/8” NPTF",
+            "weight": "14.84 lbs",
+            "dimensions": {
+                "length": "9.69 inches",
+                "width": "8.78 inches",
+                "height": "5.35 inches"
+            }
+        },
+        "keywords": [
+            "triplex plunger pump",
+            "3CP1120",
+            "flow range 4.2 GPM",
+            "pressure range 2000 PSI",
+            "1725 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-3CP1221-L.pdf",
+        "product_properties": {
+            "type": "Electric horsepower triplex plunger pump",
+            "models": [
+                "3CP1221",
+                "3CP1231",
+                "3CP1241"
+            ],
+            "flow_range": "2.3-4.2 GPM",
+            "pressure_range": "100-2000 PSI",
+            "rpm": "1725 RPM",
+            "max_temperature": "160°F",
+            "inlet_ports": "1/2” NPTF",
+            "discharge_ports": "3/8” NPTF",
+            "weight": "14.84 lbs",
+            "dimensions": {
+                "length": "9.69 inches",
+                "width": "8.78 inches",
+                "height": "5.35 inches"
+            }
+        },
+        "keywords": [
+            "electric horsepower pump",
+            "triplex plunger pump",
+            "3CP1221",
+            "flow range 2.3-4.2 GPM",
+            "pressure range 2000 PSI",
+            "1725 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-3DX29GSI-3DX30GSI-L.pdf",
+        "product_properties": {
+            "type": "Direct-drive plunger pump",
+            "models": [
+                "3DX29GSI",
+                "3DX30GSI"
+            ],
+            "flow_range": "2.9-3.0 GPM",
+            "pressure_range": "up to 2500 PSI",
+            "rpm": "3450 RPM",
+            "max_temperature": "140°F",
+            "inlet_ports": "3/4” GHF",
+            "discharge_ports": "3/8” NPTM",
+            "weight": "10.7 lbs",
+            "dimensions": {
+                "length": "7.99 inches",
+                "width": "7.75 inches",
+                "height": "6.29 inches"
+            }
+        },
+        "keywords": [
+            "direct-drive pump",
+            "plunger pump",
+            "3DX29GSI",
+            "flow range 2.9-3.0 GPM",
+            "pressure range 2500 PSI",
+            "3450 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-4DNX25GSI_B-L.pdf",
+        "product_properties": {
+            "type": "Direct-drive plunger pump",
+            "models": [
+                "4DNX25GSI",
+                "4DNX27GSI"
+            ],
+            "flow_range": "2.5-2.7 GPM",
+            "pressure_range": "up to 2850 PSI",
+            "rpm": "3450 RPM",
+            "max_temperature": "140°F",
+            "inlet_ports": "3/4” GHF",
+            "discharge_ports": "3/8” NPTM",
+            "weight": "10.7 lbs",
+            "dimensions": {
+                "length": "8.03 inches",
+                "width": "7.83 inches",
+                "height": "6.61 inches"
+            }
+        },
+        "keywords": [
+            "direct-drive pump",
+            "plunger pump",
+            "4DNX25GSI",
+            "flow range 2.5-2.7 GPM",
+            "pressure range 2850 PSI",
+            "3450 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-4DX03ELR-L.pdf",
+        "product_properties": {
+            "type": "Direct-drive plunger pump",
+            "model": "4DX03ELR",
+            "flow": "0.3 GPM",
+            "max_discharge_pressure": "2000 PSI",
+            "rpm": "1750 RPM",
+            "inlet_pressure_range": "Flooded to 60 PSI",
+            "bore": "0.630 inches",
+            "stroke": "0.078 inches",
+            "crankcase_capacity": "8.5 oz",
+            "max_liquid_temperature": "140°F",
+            "inlet_ports": "3/8” NPT(F)",
+            "discharge_ports": "3/8” NPT(M)",
+            "shaft_diameter": "5/8 inches",
+            "weight": "10.7 lbs",
+            "dimensions": {
+                "length": "7.17 inches",
+                "width": "7.72 inches",
+                "height": "6.22 inches"
+            }
+        },
+        "keywords": [
+            "direct-drive pump",
+            "plunger pump",
+            "4DX03ELR",
+            "flow 0.3 GPM",
+            "pressure 2000 PSI",
+            "1750 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ABF-filters-L.pdf",
+        "product_properties": {
+            "type": "Compact under-vacuum filter",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "30 m3/h (132 US gpm)",
+            "screen_area": "4500 cm2",
+            "filtration_degrees": "50, 30, 10, 5 µm",
+            "connections": {
+                "inlet": "3” flanged EN 1092-1",
+                "outlet": "2”½ flanged EN 1092-1",
+                "drain_overflow": "2” flanged EN 1092-1"
+            },
+            "max_working_temperature": "40 °C (104 °F)",
+            "electrical_data": {
+                "supply_voltage": "230 Vac 1-phase 50/60 Hz (optional: 400 Vac 3-phases 50/60 Hz)",
+                "control_voltage": "24 Vdc",
+                "motor_power": "1 + 0.8 kW"
+            },
+            "dimensions": {
+                "shape": "C",
+                "model": "ABF 45C3",
+                "max_flow_rate": "30 m3/h",
+                "dimensions": {
+                    "A": "2070 mm",
+                    "B": "915 mm",
+                    "C": "1345 mm",
+                    "D": "1520 mm",
+                    "E": "818 mm",
+                    "F": "140 mm",
+                    "G": "1070 mm",
+                    "H": "440 mm",
+                    "I": "310 mm",
+                    "J": "350 mm",
+                    "X": "300 mm",
+                    "weight": "480 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "compact filter",
+            "under-vacuum filter",
+            "stainless steel housing",
+            "max flow rate 30 m3/h",
+            "screen area 4500 cm2",
+            "filtration 50 µm",
+            "connections flanged",
+            "max working temperature 40 °C",
+            "electrical data"
+        ]
+    },
+    {
+        "file": "Alfawater-ABG-filters-L.pdf",
+        "product_properties": {
+            "type": "Bag filter with stainless housing",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "70 m3/h (308 US gpm)",
+            "screen_area": "4500 cm2",
+            "filtration_degrees": "200, 100, 50, 25, 10, 5, 1 µm",
+            "connections": {
+                "inlet_outlet": "2” / 3” F threaded or Victaulic",
+                "drain": "1” thrdF"
+            },
+            "max_working_temperature": "80 °C (176 °F)",
+            "dimensions": {
+                "shape": "Z",
+                "model": "ABG 45Z2",
+                "max_flow_rate": "30 m3/h",
+                "dimensions": {
+                    "A": "1270 mm",
+                    "B": "1370 mm",
+                    "C": "1080 mm",
+                    "D": "1180 mm",
+                    "E": "920 mm",
+                    "X": "160 mm",
+                    "weight": "32 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "bag filter",
+            "stainless housing",
+            "max flow rate 70 m3/h",
+            "screen area 4500 cm2",
+            "filtration 200 µm",
+            "connections threaded",
+            "max working temperature 80 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ABK-filters-L.pdf",
+        "product_properties": {
+            "type": "Pre-filtration strainer with reusable stainless steel basket",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "600 m3/h (2642 US gpm)",
+            "screen_area": "8100 cm2",
+            "filtration_degrees": "100, 200, 500, 1000, 2000, 5000 µm",
+            "connections": {
+                "inlet_outlet": "2” to 10” flanged EN 1092-1",
+                "drain": "1” thrdF"
+            },
+            "max_working_temperature": "80 °C (140 °F)",
+            "dimensions": {
+                "shape": "Z",
+                "model": "ABK 81Z10",
+                "max_flow_rate": "600 m3/h",
+                "dimensions": {
+                    "A": "1700 mm",
+                    "B": "1300 mm",
+                    "C": "650 mm",
+                    "D": "450 mm",
+                    "E": "150 mm",
+                    "weight": "105 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "pre-filtration strainer",
+            "reusable basket",
+            "stainless steel housing",
+            "max flow rate 600 m3/h",
+            "screen area 8100 cm2",
+            "filtration 100 µm",
+            "connections flanged",
+            "max working temperature 80 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ABR-filters-L.pdf",
+        "product_properties": {
+            "type": "Automatic self-cleaning filter with brushes",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "390 m3/h (1717 US gpm)",
+            "screen_area": "5500 cm2",
+            "filtration_degrees": "10, 25, 50, 100, 200, 400, 500, 800, 1000 µm",
+            "connections": {
+                "inlet_outlet": "2” to 8” flanged EN 1092-1",
+                "drain": "1”½ to 2” flanged EN 1092-1"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "H",
+                "model": "ABR 55H8",
+                "max_flow_rate": "390 m3/h",
+                "dimensions": {
+                    "A": "1860 mm",
+                    "B": "601 mm",
+                    "C": "640 mm",
+                    "D": "280 mm",
+                    "E": "273 mm",
+                    "X": "900 mm",
+                    "Y": "600 mm",
+                    "weight": "112 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "automatic self-cleaning filter",
+            "brushes",
+            "stainless steel housing",
+            "max flow rate 390 m3/h",
+            "screen area 5500 cm2",
+            "filtration 10 µm",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ABV-filters-L.pdf",
+        "product_properties": {
+            "type": "Inline basket strainer",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "350 m3/h (1540 US gpm)",
+            "screen_area": "2200 cm2",
+            "filtration_degrees": "1000, 2000, 5000 µm",
+            "connections": {
+                "inlet_outlet": "1”½ to 6” flanged EN 1092-1",
+                "drain": "½” thrdF"
+            },
+            "max_working_temperature": "95 °C (200 °F)",
+            "dimensions": {
+                "shape": "T",
+                "model": "AMB 22T6",
+                "max_flow_rate": "350 m3/h",
+                "dimensions": {
+                    "A": "480 mm",
+                    "B": "273 mm",
+                    "C": "390 mm",
+                    "D": "230 mm",
+                    "X": "500 mm",
+                    "weight": "36 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "inline basket strainer",
+            "stainless steel housing",
+            "max flow rate 350 m3/h",
+            "screen area 2200 cm2",
+            "filtration 1000 µm",
+            "connections flanged",
+            "max working temperature 95 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AHC-filters-L.pdf",
+        "product_properties": {
+            "type": "Liquid-solid separator filter",
+            "housing_material": "Painted FeC, AISI 304, AISI 316",
+            "max_flow_rate": "2750 m3/h (12100 US gpm)",
+            "connections": {
+                "inlet_outlet": "2” to 20” flanged EN 1092-1",
+                "drain": "1” to 2” thrdF"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "L",
+                "model": "AHC L20",
+                "max_flow_rate": "2750 m3/h",
+                "dimensions": {
+                    "A": "1200 mm",
+                    "B": "1016 mm",
+                    "C": "5600 mm",
+                    "D": "5100 mm",
+                    "E": "150 mm",
+                    "weight": "1900 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "liquid-solid separator filter",
+            "painted FeC",
+            "AISI 304",
+            "AISI 316",
+            "max flow rate 2750 m3/h",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AMA-filters-L.pdf",
+        "product_properties": {
+            "type": "Self-cleaning microfiltration filter",
+            "housing_material": "AISI 304, AISI 316, FRP",
+            "max_flow_rate": "300 m3/h (1320 US gpm)",
+            "screen_area": "220000 cm2",
+            "filtration_degrees": "1, 5, 10, 25 µm",
+            "connections": {
+                "inlet_outlet": "2” to 8” flanged EN 1092-1",
+                "drain": "3” to 4” flanged EN 1092-1"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "S",
+                "model": "AMA 2200S8B5",
+                "max_flow_rate": "300 m3/h",
+                "dimensions": {
+                    "A": "1350 mm",
+                    "B": "2410 mm",
+                    "C": "2003 mm",
+                    "D": "1520 mm",
+                    "E": "470 mm",
+                    "F": "1774 mm",
+                    "G": "154 mm",
+                    "H": "1040 mm",
+                    "weight": "710 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "self-cleaning filter",
+            "microfiltration",
+            "AISI 304",
+            "AISI 316",
+            "FRP",
+            "max flow rate 300 m3/h",
+            "screen area 220000 cm2",
+            "filtration 1 µm",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AMB-filters-L.pdf",
+        "product_properties": {
+            "type": "Inline basket strainer",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "350 m3/h (1540 US gpm)",
+            "screen_area": "2200 cm2",
+            "filtration_degrees": "1000, 2000, 5000 µm",
+            "connections": {
+                "inlet_outlet": "1”½ to 6” flanged EN 1092-1",
+                "drain": "½” thrdF"
+            },
+            "max_working_temperature": "95 °C (200 °F)",
+            "dimensions": {
+                "shape": "T",
+                "model": "AMB 22T6",
+                "max_flow_rate": "350 m3/h",
+                "dimensions": {
+                    "A": "480 mm",
+                    "B": "273 mm",
+                    "C": "390 mm",
+                    "D": "230 mm",
+                    "X": "500 mm",
+                    "weight": "36 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "inline basket strainer",
+            "stainless steel housing",
+            "max flow rate 350 m3/h",
+            "screen area 2200 cm2",
+            "filtration 1000 µm",
+            "connections flanged",
+            "max working temperature 95 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-ASF-filters-L.pdf",
+        "product_properties": {
+            "type": "Manual screen filter",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "1400 m3/h (6164 US gpm)",
+            "screen_area": "19800 cm2",
+            "filtration_degrees": "10, 25, 50, 100, 200, 400, 500, 800, 1000 µm",
+            "connections": {
+                "inlet_outlet": "2” to 16” flanged EN 1092-1",
+                "drain": "1” thrdF"
+            },
+            "max_working_temperature": "80 °C (176 °F)",
+            "dimensions": {
+                "shape": "H",
+                "model": "ASF 55H8",
+                "max_flow_rate": "390 m3/h",
+                "dimensions": {
+                    "A": "1525 mm",
+                    "B": "510 mm",
+                    "C": "640 mm",
+                    "D": "280 mm",
+                    "E": "237 mm",
+                    "X": "900 mm",
+                    "weight": "78 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "manual screen filter",
+            "stainless steel housing",
+            "max flow rate 1400 m3/h",
+            "screen area 19800 cm2",
+            "filtration 10 µm",
+            "connections flanged",
+            "max working temperature 80 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AVB-filters-L.pdf",
+        "product_properties": {
+            "type": "Pre-filtration strainer with reusable stainless steel basket",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "600 m3/h (2642 US gpm)",
+            "screen_area": "8100 cm2",
+            "filtration_degrees": "100, 200, 500, 1000, 2000, 5000 µm",
+            "connections": {
+                "inlet_outlet": "2” to 10” flanged EN 1092-1",
+                "drain": "1” thrdF"
+            },
+            "max_working_temperature": "80 °C (140 °F)",
+            "dimensions": {
+                "shape": "Z",
+                "model": "ABK 81Z10",
+                "max_flow_rate": "600 m3/h",
+                "dimensions": {
+                    "A": "1700 mm",
+                    "B": "1300 mm",
+                    "C": "650 mm",
+                    "D": "450 mm",
+                    "E": "150 mm",
+                    "weight": "105 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "pre-filtration strainer",
+            "reusable basket",
+            "stainless steel housing",
+            "max flow rate 600 m3/h",
+            "screen area 8100 cm2",
+            "filtration 100 µm",
+            "connections flanged",
+            "max working temperature 80 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AVC-filters-L.pdf",
+        "product_properties": {
+            "type": "Automatic self-cleaning filter",
+            "housing_material": "Stainless steel",
+            "max_flow_rate": "220 m3/h (969 US gpm)",
+            "screen_area": "7200 cm2",
+            "filtration_degrees": "10, 25, 50, 100, 200, 400, 500, 800, 1000 µm",
+            "connections": {
+                "inlet_outlet": "6” flanged EN 1092-1",
+                "drain": "2” flanged EN 1092-1"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "H",
+                "model": "AVC 72H6",
+                "max_flow_rate": "220 m3/h",
+                "dimensions": {
+                    "A": "1816 mm",
+                    "B": "553 mm",
+                    "C": "1050 mm",
+                    "D": "300 mm",
+                    "E": "270 mm",
+                    "X": "1200 mm",
+                    "Y": "300 mm",
+                    "weight": "75 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "automatic self-cleaning filter",
+            "stainless steel housing",
+            "max flow rate 220 m3/h",
+            "screen area 7200 cm2",
+            "filtration 10 µm",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Alfawater-AVC-in-GRP-filters-L.pdf",
+        "product_properties": {
+            "type": "Automatic self-cleaning filter",
+            "housing_material": "GRP",
+            "max_flow_rate": "220 m3/h (969 US gpm)",
+            "screen_area": "7200 cm2",
+            "filtration_degrees": "10, 25, 50, 100, 200, 400, 500, 800, 1000 µm",
+            "connections": {
+                "inlet_outlet": "6” flanged EN 1092-1",
+                "drain": "2” flanged EN 1092-1"
+            },
+            "max_working_temperature": "60 °C (140 °F)",
+            "dimensions": {
+                "shape": "H",
+                "model": "AVC 72H6",
+                "max_flow_rate": "220 m3/h",
+                "dimensions": {
+                    "A": "1816 mm",
+                    "B": "553 mm",
+                    "C": "1050 mm",
+                    "D": "300 mm",
+                    "E": "270 mm",
+                    "X": "1200 mm",
+                    "Y": "300 mm",
+                    "weight": "75 Kg"
+                }
+            }
+        },
+        "keywords": [
+            "automatic self-cleaning filter",
+            "GRP housing",
+            "max flow rate 220 m3/h",
+            "screen area 7200 cm2",
+            "filtration 10 µm",
+            "connections flanged",
+            "max working temperature 60 °C",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-1K100.pdf",
+        "product_properties": {
+            "type": "Stainless steel submersible pump",
+            "models": [
+                "1K100",
+                "1K200",
+                "1K300",
+                "1K400",
+                "1K500"
+            ],
+            "flow_range": "up to 88 GPM",
+            "pressure_range": "up to 24 PSI",
+            "max_head": "55 Ft",
+            "rpm": "3450 RPM",
+            "discharge_fitting": {
+                "1/3 HP": "1-1/4 NPT",
+                "1/2-1-1/2 HP": "1-1/2 NPT"
+            },
+            "motor_phase": {
+                "single": "Class F 115V",
+                "three": "Class F 208/230V, Class F 460V"
+            },
+            "cycle": "60 Hz",
+            "cable_length": {
+                "single_phase": "20 Ft AWG 16 UL/CSA 3-Prong",
+                "three_phase": "20 Ft AWG 16 UL/CSA"
+            },
+            "float_operation": "Manual or Automatic",
+            "max_starts_per_hour": "20",
+            "max_temperature": {
+                "continuous": "122°F",
+                "intermittent": "140°F"
+            },
+            "max_solids_diameter": "3/8 inch",
+            "weight": "11-31 lbs",
+            "dimensions": {
+                "length": "10.25-17.18 inches",
+                "diameter": "6.37-8.25 inches"
+            }
+        },
+        "keywords": [
+            "stainless steel pump",
+            "submersible pump",
+            "1K100",
+            "flow range 88 GPM",
+            "pressure range 24 PSI",
+            "3450 RPM",
+            "discharge fitting",
+            "motor phase",
+            "cycle 60 Hz",
+            "float operation",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-2FS-10-20-30-ES-GSF-L.pdf",
+        "product_properties": {
+            "type": "High-pressure plunger pump",
+            "models": [
+                "2FS10",
+                "2FS20",
+                "2FS30"
+            ],
+            "flow_range": "10-30 GPM",
+            "pressure_range": "up to 5000 PSI",
+            "rpm": "1450 RPM",
+            "crankcase_capacity": "41 oz",
+            "max_temperature": "160°F",
+            "inlet_ports": "3/4” NPTF",
+            "discharge_ports": "1/2” NPTF",
+            "weight": "40 lbs",
+            "dimensions": {
+                "length": "12.83 inches",
+                "width": "9.45 inches",
+                "height": "7.87 inches"
+            }
+        },
+        "keywords": [
+            "high-pressure pump",
+            "plunger pump",
+            "2FS10",
+            "flow range 10-30 GPM",
+            "pressure range 5000 PSI",
+            "1450 RPM",
+            "crankcase capacity",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-3CP1120-G.pdf",
+        "product_properties": {
+            "type": "Triplex plunger pump",
+            "models": [
+                "3CP1120",
+                "3CP1130",
+                "3CP1140",
+                "3CP1120G"
+            ],
+            "flow_range": "up to 4.2 GPM",
+            "pressure_range": "up to 2000 PSI",
+            "rpm": "1725 RPM",
+            "max_temperature": "160°F",
+            "inlet_ports": "1/2” NPTF",
+            "discharge_ports": "3/8” NPTF",
+            "weight": "14.84 lbs",
+            "dimensions": {
+                "length": "9.69 inches",
+                "width": "8.78 inches",
+                "height": "5.35 inches"
+            }
+        },
+        "keywords": [
+            "triplex plunger pump",
+            "3CP1120",
+            "flow range 4.2 GPM",
+            "pressure range 2000 PSI",
+            "1725 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-3CP1221-L.pdf",
+        "product_properties": {
+            "type": "Electric horsepower triplex plunger pump",
+            "models": [
+                "3CP1221",
+                "3CP1231",
+                "3CP1241"
+            ],
+            "flow_range": "2.3-4.2 GPM",
+            "pressure_range": "100-2000 PSI",
+            "rpm": "1725 RPM",
+            "max_temperature": "160°F",
+            "inlet_ports": "1/2” NPTF",
+            "discharge_ports": "3/8” NPTF",
+            "weight": "14.84 lbs",
+            "dimensions": {
+                "length": "9.69 inches",
+                "width": "8.78 inches",
+                "height": "5.35 inches"
+            }
+        },
+        "keywords": [
+            "electric horsepower pump",
+            "triplex plunger pump",
+            "3CP1221",
+            "flow range 2.3-4.2 GPM",
+            "pressure range 2000 PSI",
+            "1725 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-3DX29GSI-3DX30GSI-L.pdf",
+        "product_properties": {
+            "type": "Direct-drive plunger pump",
+            "models": [
+                "3DX29GSI",
+                "3DX30GSI"
+            ],
+            "flow_range": "2.9-3.0 GPM",
+            "pressure_range": "up to 2500 PSI",
+            "rpm": "3450 RPM",
+            "max_temperature": "140°F",
+            "inlet_ports": "3/4” GHF",
+            "discharge_ports": "3/8” NPTM",
+            "weight": "10.7 lbs",
+            "dimensions": {
+                "length": "7.99 inches",
+                "width": "7.75 inches",
+                "height": "6.29 inches"
+            }
+        },
+        "keywords": [
+            "direct-drive pump",
+            "plunger pump",
+            "3DX29GSI",
+            "flow range 2.9-3.0 GPM",
+            "pressure range 2500 PSI",
+            "3450 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-4DNX25GSI_B-L.pdf",
+        "product_properties": {
+            "type": "Direct-drive plunger pump",
+            "models": [
+                "4DNX25GSI",
+                "4DNX27GSI"
+            ],
+            "flow_range": "2.5-2.7 GPM",
+            "pressure_range": "up to 2850 PSI",
+            "rpm": "3450 RPM",
+            "max_temperature": "140°F",
+            "inlet_ports": "3/4” GHF",
+            "discharge_ports": "3/8” NPTM",
+            "weight": "10.7 lbs",
+            "dimensions": {
+                "length": "8.03 inches",
+                "width": "7.83 inches",
+                "height": "6.61 inches"
+            }
+        },
+        "keywords": [
+            "direct-drive pump",
+            "plunger pump",
+            "4DNX25GSI",
+            "flow range 2.5-2.7 GPM",
+            "pressure range 2850 PSI",
+            "3450 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-4DX03ELR-L.pdf",
+        "product_properties": {
+            "type": "Direct-drive plunger pump",
+            "model": "4DX03ELR",
+            "flow": "0.3 GPM",
+            "max_discharge_pressure": "2000 PSI",
+            "rpm": "1750 RPM",
+            "inlet_pressure_range": "Flooded to 60 PSI",
+            "bore": "0.630 inches",
+            "stroke": "0.078 inches",
+            "crankcase_capacity": "8.5 oz",
+            "max_liquid_temperature": "140°F",
+            "inlet_ports": "3/8” NPT(F)",
+            "discharge_ports": "3/8” NPT(M)",
+            "shaft_diameter": "5/8 inches",
+            "weight": "10.7 lbs",
+            "dimensions": {
+                "length": "7.17 inches",
+                "width": "7.72 inches",
+                "height": "6.22 inches"
+            }
+        },
+        "keywords": [
+            "direct-drive pump",
+            "plunger pump",
+            "4DX03ELR",
+            "flow 0.3 GPM",
+            "pressure 2000 PSI",
+            "1750 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-4DX10-15-20-27ER-Lpdf.pdf",
+        "product_properties": {
+            "type": "Direct-drive plunger pump",
+            "models": [
+                "4DX10ER",
+                "4DX15ER",
+                "4DX20ER",
+                "4DX27ER"
+            ],
+            "flow_range": "1.0-2.7 GPM",
+            "pressure_range": "up to 2000 PSI",
+            "rpm": "3450 RPM",
+            "max_temperature": "140°F",
+            "inlet_ports": "3/8” NPT(F)",
+            "discharge_ports": "3/8” NPT(M)",
+            "weight": "10.7 lbs",
+            "dimensions": {
+                "length": "7.99 inches",
+                "width": "7.75 inches",
+                "height": "6.29 inches"
+            }
+        },
+        "keywords": [
+            "direct-drive pump",
+            "plunger pump",
+            "4DX10ER",
+            "flow range 1.0-2.7 GPM",
+            "pressure range 2000 PSI",
+            "3450 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-4K111.pdf",
+        "product_properties": {
+            "type": "High-pressure pump",
+            "model": "4K111",
+            "flow": "4.0 GPM",
+            "pressure_range": "100-1000 PSI",
+            "rpm": "1450 RPM",
+            "max_temperature": "160°F",
+            "inlet_ports": "1/2” NPTF",
+            "discharge_ports": "3/8” NPTF",
+            "weight": "21.6 lbs",
+            "dimensions": {
+                "length": "10.2 inches",
+                "width": "8.4 inches",
+                "height": "7.3 inches"
+            }
+        },
+        "keywords": [
+            "high-pressure pump",
+            "4K111",
+            "flow 4.0 GPM",
+            "pressure range 100-1000 PSI",
+            "1450 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Cat-4SF-L.pdf",
+        "product_properties": {
+            "type": "High-pressure pump",
+            "model": "4SF",
+            "flow": "4.5 GPM",
+            "pressure_range": "100-2000 PSI",
+            "rpm": "1750 RPM",
+            "max_temperature": "160°F",
+            "inlet_ports": "3/4” NPTF",
+            "discharge_ports": "1/2” NPTF",
+            "weight": "24 lbs",
+            "dimensions": {
+                "length": "10.8 inches",
+                "width": "8.6 inches",
+                "height": "7.1 inches"
+            }
+        },
+        "keywords": [
+            "high-pressure pump",
+            "4SF",
+            "flow 4.5 GPM",
+            "pressure range 100-2000 PSI",
+            "1750 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-5CP2120W-F.pdf",
+        "product_properties": {
+            "type": "Triplex plunger pump",
+            "model": "5CP2120W-F",
+            "flow": "2.1 GPM",
+            "pressure_range": "100-2000 PSI",
+            "rpm": "1750 RPM",
+            "max_temperature": "160°F",
+            "inlet_ports": "1/2” NPTF",
+            "discharge_ports": "3/8” NPTF",
+            "weight": "21 lbs",
+            "dimensions": {
+                "length": "11.4 inches",
+                "width": "8.4 inches",
+                "height": "6.3 inches"
+            }
+        },
+        "keywords": [
+            "triplex plunger pump",
+            "5CP2120W-F",
+            "flow 2.1 GPM",
+            "pressure range 100-2000 PSI",
+            "1750 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Cat-5CP3105CSS-C-L.pdf",
+        "product_properties": {
+            "type": "Triplex plunger pump",
+            "model": "5CP3105CSS",
+            "flow": "2.5 GPM",
+            "pressure_range": "100-3500 PSI",
+            "rpm": "1750 RPM",
+            "max_temperature": "160°F",
+            "inlet_ports": "1/2” NPTF",
+            "discharge_ports": "3/8” NPTF",
+            "weight": "19.9 lbs",
+            "dimensions": {
+                "length": "10.9 inches",
+                "width": "8.7 inches",
+                "height": "5.8 inches"
+            }
+        },
+        "keywords": [
+            "triplex plunger pump",
+            "5CP3105CSS",
+            "flow 2.5 GPM",
+            "pressure range 100-3500 PSI",
+            "1750 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-5CP3120-G.pdf",
+        "product_properties": {
+            "type": "Triplex plunger pump",
+            "model": "5CP3120",
+            "flow": "4.5 GPM",
+            "pressure_range": "100-3500 PSI",
+            "rpm": "1645 RPM",
+            "max_temperature": "160°F",
+            "inlet_ports": "1/2” NPTF",
+            "discharge_ports": "3/8” NPTF",
+            "weight": "19.9 lbs",
+            "dimensions": {
+                "length": "10.4 inches",
+                "width": "10.0 inches",
+                "height": "5.8 inches"
+            }
+        },
+        "keywords": [
+            "triplex plunger pump",
+            "5CP3120",
+            "flow 4.5 GPM",
+            "pressure range 100-3500 PSI",
+            "1645 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-5CP3160CSSG1.pdf",
+        "product_properties": {
+            "type": "Triplex plunger pump with gearbox",
+            "model": "5CP3160CSSG1",
+            "flow": "4.0 GPM",
+            "pressure_range": "100-3500 PSI",
+            "rpm": "1750 RPM",
+            "max_temperature": "160°F",
+            "inlet_ports": "1/2” NPTF",
+            "discharge_ports": "3/8” NPTF",
+            "weight": "26.5 lbs",
+            "dimensions": {
+                "length": "11.0 inches",
+                "width": "12.7 inches",
+                "height": "6.4 inches"
+            }
+        },
+        "keywords": [
+            "triplex plunger pump",
+            "gearbox",
+            "5CP3160CSSG1",
+            "flow 4.0 GPM",
+            "pressure range 100-3500 PSI",
+            "1750 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Cat-5CP4120CSS-A-L.pdf",
+        "product_properties": {
+            "type": "Triplex plunger pump",
+            "model": "5CP4120CSS",
+            "flow": "4.5 GPM",
+            "pressure_range": "100-4000 PSI",
+            "rpm": "1750 RPM",
+            "max_temperature": "160°F",
+            "inlet_ports": "1/2” NPTF",
+            "discharge_ports": "3/8” NPTF",
+            "weight": "19.9 lbs",
+            "dimensions": {
+                "length": "10.6 inches",
+                "width": "8.9 inches",
+                "height": "5.7 inches"
+            }
+        },
+        "keywords": [
+            "triplex plunger pump",
+            "5CP4120CSS",
+            "flow 4.5 GPM",
+            "pressure range 100-4000 PSI",
+            "1750 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-5CP5120-C.pdf",
+        "product_properties": {
+            "type": "Triplex plunger pump",
+            "model": "5CP5120",
+            "flow": "5.0 GPM",
+            "pressure_range": "100-3000 PSI",
+            "rpm": "1415 RPM",
+            "max_temperature": "160°F",
+            "inlet_ports": "1/2” NPTF",
+            "discharge_ports": "3/8” NPTF",
+            "weight": "19.9 lbs",
+            "dimensions": {
+                "length": "10.89 inches",
+                "width": "10.0 inches",
+                "height": "5.78 inches"
+            }
+        },
+        "keywords": [
+            "triplex plunger pump",
+            "5CP5120",
+            "flow 5.0 GPM",
+            "pressure range 100-3000 PSI",
+            "1415 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "CAT-5CP6221-L.pdf",
+        "product_properties": {
+            "type": "Triplex plunger pump",
+            "model": "5CP6221",
+            "flow": "6.2 GPM",
+            "pressure_range": "100-2500 PSI",
+            "rpm": "1750 RPM",
+            "max_temperature": "160°F",
+            "inlet_ports": "1/2” NPTF",
+            "discharge_ports": "3/8” NPTF",
+            "weight": "22 lbs",
+            "dimensions": {
+                "length": "11.0 inches",
+                "width": "8.9 inches",
+                "height": "6.0 inches"
+            }
+        },
+        "keywords": [
+            "triplex plunger pump",
+            "5CP6221",
+            "flow 6.2 GPM",
+            "pressure range 100-2500 PSI",
+            "1750 RPM",
+            "maximum temperature",
+            "dimensions"
+        ]
+    },
+    {
+        "file": "Evoqua-deionizer-de.ps-L.pdf",
+        "product_properties": {
+            "type": "Deionizer",
+            "material": "Stainless steel",
+            "max_pressure": "10 bar",
+            "capacity": [
+                "2000 L",
+                "2800 L",
+                "4500 L",
+                "6200 L",
+                "7000 L",
+                "11000 L",
+                "15000 L"
+            ],
+            "flow_rate": [
+                "450 L/h",
+                "800 L/h",
+                "1000 L/h",
+                "2000 L/h",
+                "2500 L/h",
+                "3000 L/h"
+            ],
+            "resin_charge": [
+                "13 L",
+                "19 L",
+                "30 L",
+                "40 L",
+                "50 L",
+                "75 L",
+                "100 L"
+            ],
+            "diameter": [
+                "230 mm",
+                "360 mm"
+            ],
+            "height": [
+                "410 mm",
+                "570 mm",
+                "785 mm",
+                "1025 mm",
+                "660 mm",
+                "980 mm",
+                "1111 mm"
+            ],
+            "shipping_weight": [
+                "18 kg",
+                "24 kg",
+                "34 kg",
+                "48 kg",
+                "52 kg",
+                "68 kg",
+                "92 kg"
+            ],
+            "connectors": [
+                "Quick-fit couplers",
+                "Threaded connectors"
+            ]
+        },
+        "keywords": [
+            "deionizer",
+            "stainless steel",
+            "high pressure",
+            "quick-fit couplers",
+            "threaded connectors",
+            "high capacity",
+            "laboratory",
+            "water treatment"
+        ]
+    },
+    {
+        "file": "Evoqua-labostar-pro-de-ps-0320-L.pdf",
+        "product_properties": {
+            "type": "Ultrapure Water System",
+            "model": "LaboStar PRO TWF",
+            "water_types": [
+                "Type I",
+                "Type III"
+            ],
+            "tank_capacity": [
+                "7 L",
+                "30 L",
+                "60 L"
+            ],
+            "ultrapure_water_quality": "0.055 µS/cm",
+            "RO_water_quality": "< 0.1 µS/cm",
+            "flow_rate": [
+                "10 L/h"
+            ],
+            "dimensions": "535 x 400 x 520 mm",
+            "weight": [
+                "20 kg",
+                "21.2 kg"
+            ],
+            "power_supply": "100-240 V / 50-60 Hz"
+        },
+        "keywords": [
+            "ultrapure water",
+            "reverse osmosis",
+            "drinking water",
+            "laboratory",
+            "pre-filtration",
+            "conductivity sensor",
+            "sterile filter",
+            "cost-effective"
+        ]
+    },
+    {
+        "file": "Evoqua-labostar-ro-di-de-ps-L.pdf",
+        "product_properties": {
+            "type": "Reverse Osmosis System",
+            "model": "LaboStar RO DI",
+            "water_quality": "< 0.1 µS/cm",
+            "flow_rate": [
+                "10 L/h"
+            ],
+            "tank_capacity": [
+                "7 L",
+                "30 L",
+                "60 L"
+            ],
+            "salt_retention": "96%",
+            "bacteria_retention": "99%",
+            "power_supply": "100-240 V / 50-60 Hz",
+            "dimensions": "535 x 290 x 400 mm",
+            "weight": "24 kg"
+        },
+        "keywords": [
+            "reverse osmosis",
+            "deionization",
+            "lab water",
+            "high purity",
+            "low energy",
+            "cost-effective",
+            "sterile filter",
+            "conductivity monitoring"
+        ]
+    },
+    {
+        "file": "Evoqua-protegra-cs-ro-edi-de-ps-L.pdf",
+        "product_properties": {
+            "type": "Reverse Osmosis System",
+            "model": "Protegra CS RO/EDI",
+            "water_quality": "< 0.1 µS/cm",
+            "flow_rate": [
+                "120 L/h",
+                "260 L/h",
+                "500 L/h",
+                "750 L/h"
+            ],
+            "max_pressure": "14 bar",
+            "power_supply": [
+                "230 V / 50 Hz",
+                "400 V / 50 Hz"
+            ],
+            "dimensions": [
+                "1650 x 600 x 600 mm",
+                "1650 x 600 x 750 mm"
+            ],
+            "weight": [
+                "151 kg",
+                "165 kg",
+                "237 kg",
+                "291 kg"
+            ]
+        },
+        "keywords": [
+            "reverse osmosis",
+            "electro-deionization",
+            "high purity",
+            "cost-effective",
+            "high volume",
+            "laboratory",
+            "compact design",
+            "RS 232 interface"
+        ]
+    },
+    {
+        "file": "Evoqua-ultra-clear-ro-de-ps-L.pdf",
+        "product_properties": {
+            "type": "Pure Water System",
+            "model": "Ultra Clear RO",
+            "water_quality": "< 0.1 µS/cm",
+            "flow_rate": [
+                "20 L/h",
+                "30 L/h",
+                "60 L/h",
+                "100 L/h"
+            ],
+            "salt_reduction": "98%",
+            "bacteria_retention": "99%",
+            "power_supply": "240 V / 50-60 Hz",
+            "dimensions": "530 x 340 x 420 mm",
+            "weight": [
+                "32 kg",
+                "33 kg",
+                "35 kg"
+            ]
+        },
+        "keywords": [
+            "pure water",
+            "reverse osmosis",
+            "high efficiency",
+            "low energy",
+            "laboratory",
+            "water conservation",
+            "storage tanks",
+            "user-friendly"
+        ]
+    },
+    {
+        "file": "Evoqua-ultra-clear-ro-di-de-ps-L.pdf",
+        "product_properties": {
+            "type": "Ultrapure Water System",
+            "model": "Ultra Clear RO DI",
+            "water_quality": "< 0.1 µS/cm",
+            "flow_rate": [
+                "20 L/h",
+                "30 L/h"
+            ],
+            "salt_reduction": "98%",
+            "bacteria_retention": "99%",
+            "power_supply": "240 V / 50-60 Hz",
+            "dimensions": "530 x 340 x 420 mm",
+            "weight": [
+                "33 kg",
+                "34 kg"
+            ]
+        },
+        "keywords": [
+            "ultrapure water",
+            "reverse osmosis",
+            "deionization",
+            "high purity",
+            "laboratory",
+            "water conservation",
+            "storage tanks",
+            "user-friendly"
+        ]
+    },
+    {
+        "file": "Evoqua-ultra-clear-ro-edi-de-ps-L.pdf",
+        "product_properties": {
+            "type": "Pure Water System",
+            "model": "Ultra Clear RO EDI",
+            "water_quality": "< 0.07 µS/cm",
+            "flow_rate": [
+                "10 L/h",
+                "20 L/h",
+                "30 L/h",
+                "55 L/h"
+            ],
+            "power_supply": "100-240 V / 50-60 Hz",
+            "dimensions": "340 x 530 x 420 mm",
+            "weight": "35 kg"
+        },
+        "keywords": [
+            "pure water",
+            "reverse osmosis",
+            "electro-deionization",
+            "high purity",
+            "low energy",
+            "laboratory",
+            "compact design",
+            "user-friendly"
+        ]
+    },
+    {
+        "file": "Evoqua-ultra-clear-tp-en-ps-L.pdf",
+        "product_properties": {
+            "type": "Ultrapure Water System",
+            "model": "Ultra Clear TP ED",
+            "water_quality": "0.055 µS/cm",
+            "flow_rate": "2 L/min",
+            "tank_capacity": [
+                "30 L",
+                "60 L",
+                "80 L"
+            ],
+            "power_supply": "100-240 V / 50-60 Hz",
+            "dimensions": [
+                "340 x 535 x 550 mm",
+                "300 x 770 x 310 mm",
+                "560 x 770 x 310 mm",
+                "800 x 350 x 500 mm"
+            ],
+            "weight": [
+                "23 kg",
+                "30.5 kg",
+                "31.5 kg",
+                "33 kg",
+                "34 kg",
+                "47 kg"
+            ]
+        },
+        "keywords": [
+            "ultrapure water",
+            "electronic dispenser",
+            "high precision",
+            "volume-controlled dispensing",
+            "laboratory",
+            "easy installation",
+            "touch display",
+            "long service life"
+        ]
+    },
+    {
+        "file": "EWS-AS3020-L.pdf",
+        "product_properties": {
+            "type": "Cooling Tower Controller",
+            "model": "AS3020",
+            "features": [
+                "Monochrome LCD display",
+                "3 internal keys",
+                "Automatic range switching",
+                "Manual temperature compensation",
+                "Capacitive cell"
+            ],
+            "inputs": [
+                "3x potential free switch",
+                "1x conductivity meter"
+            ],
+            "outputs": [
+                "3x relay output (powered)"
+            ],
+            "power_supply": [
+                "24 VAC",
+                "115 VAC",
+                "230 VAC",
+                "12 VDC",
+                "24 VDC"
+            ],
+            "enclosure": "IP65 wall mounting"
+        },
+        "keywords": [
+            "cooling tower controller",
+            "automatic monitoring",
+            "conductivity meter",
+            "manual temperature compensation",
+            "relay outputs",
+            "IP65",
+            "programmable options"
+        ]
+    },
+    {
+        "file": "EWS-AS3035-L.pdf",
+        "product_properties": {
+            "type": "Cooling Tower Controller",
+            "model": "AS3035",
+            "features": [
+                "Monochrome LCD display",
+                "6 keys",
+                "5 LEDs for process and alarm indication",
+                "Acoustic signal for alarm",
+                "Automatic range switching",
+                "Manual temperature compensation",
+                "Capacitive cell"
+            ],
+            "inputs": [
+                "4x potential free switch",
+                "1x conductivity meter",
+                "Optional: 1x additional potential free switch"
+            ],
+            "outputs": [
+                "1x relay output (powered)",
+                "2x relay output (dry contact)",
+                "Optional: 2x relay output (dry contact)"
+            ],
+            "power_supply": [
+                "24 VAC",
+                "115 VAC",
+                "230 VAC",
+                "115/24 VAC",
+                "230/24 VAC"
+            ],
+            "enclosure": "IP65 wall mounting"
+        },
+        "keywords": [
+            "cooling tower controller",
+            "automatic monitoring",
+            "conductivity meter",
+            "manual temperature compensation",
+            "relay outputs",
+            "IP65",
+            "programmable options",
+            "alarm indication"
+        ]
+    },
+    {
+        "file": "BWA-Belclene-200-L.pdf",
+        "product_properties": {
+            "type": "Antiscalant",
+            "description": "Belclene 200 is the most effective calcium carbonate antiscalant for high hardness, high alkalinity, and high temperature cooling water systems.",
+            "applications": [
+                "Superior calcium carbonate scale inhibition",
+                "Threshold inhibition and crystal modification",
+                "Enhanced phosphonate-based programs"
+            ],
+            "benefits": [
+                "Effective in severe service conditions",
+                "FDA approved for sugar and beet processing",
+                "Kosher certified"
+            ],
+            "packaging": {
+                "drum": "528 lb / 240 kg",
+                "ibcs_totes": "2204 lb / 1000 kg"
+            },
+            "physical_properties": {
+                "appearance": "Clear to slightly turbid amber liquid",
+                "solids_content": "50% w/w",
+                "specific_gravity": "1.16 - 1.19 @ 20°C",
+                "ph": "<2",
+                "viscosity": "10 - 25 cSt @ 25°C",
+                "boiling_range": "100-102°C (212-214°F)",
+                "freezing_point": "-5 to -12°C (23-10°F)",
+                "solubility": "Miscible in water"
+            }
+        },
+        "keywords": [
+            "antiscalant",
+            "calcium carbonate",
+            "high hardness",
+            "high alkalinity",
+            "cooling water",
+            "FDA approved",
+            "Kosher certified"
+        ]
+    },
+    {
+        "file": "BWA-Belclene-220-L.pdf",
+        "product_properties": {
+            "type": "Antiscalant",
+            "description": "Belclene 220 is a phosphono polycarboxylic acid homopolymer in aqueous solution used for ferrous metal corrosion inhibition and calcium carbonate deposit control.",
+            "applications": [
+                "Excellent calcium carbonate scale inhibition",
+                "Threshold inhibition and crystal modification",
+                "Enhanced phosphonate-based formulations"
+            ],
+            "benefits": [
+                "Effective in severe service conditions",
+                "Control calcium carbonate scale in high hardness, high alkalinity, and high temperatures"
+            ],
+            "packaging": {
+                "drum": "485 lb / 220 kg",
+                "ibcs_totes": "2204 lb / 1000 kg"
+            },
+            "physical_properties": {
+                "appearance": "Colorless to pale yellow liquid",
+                "solids_content": "40% w/w",
+                "specific_gravity": "1.3 @ 20°C",
+                "ph": "4.5 @ 20°C",
+                "solubility": "Ready soluble in water"
+            }
+        },
+        "keywords": [
+            "antiscalant",
+            "phosphono polycarboxylic acid",
+            "ferrous metal corrosion inhibition",
+            "calcium carbonate deposit control",
+            "high hardness",
+            "high alkalinity"
+        ]
+    },
+    {
+        "file": "BWA-Belclene-245-L.pdf",
+        "product_properties": {
+            "type": "Antiscalant",
+            "description": "Belclene 245 is a halogen tolerant maleic polymer providing excellent calcium carbonate and calcium sulfate inhibition in cooling water systems.",
+            "applications": [
+                "Crystal growth blocking",
+                "Calcium ion stabilization",
+                "Mild steel corrosion inhibition",
+                "Antifoulant performance"
+            ],
+            "benefits": [
+                "Superior performance for crystal growth blocking",
+                "Greater efficiency by operating at higher cycles of concentration"
+            ],
+            "packaging": {
+                "drum": "530 lb / 240 kg"
+            },
+            "physical_properties": {
+                "appearance": "Clear to slightly turbid amber liquid",
+                "solids_content": "52% w/w",
+                "specific_gravity": "1.216 @ 20°C",
+                "ph": "1.4",
+                "viscosity": "48.0 m2/sec",
+                "freezing_point": "Protect from frost",
+                "solubility": "Miscible in water"
+            }
+        },
+        "keywords": [
+            "antiscalant",
+            "halogen tolerant",
+            "maleic polymer",
+            "calcium carbonate inhibition",
+            "calcium sulfate inhibition",
+            "crystal growth blocking"
+        ]
+    },
+    {
+        "file": "BWA-Belclene-283-L.pdf",
+        "product_properties": {
+            "type": "Antiscalant",
+            "description": "Belclene 283 is a cost-effective alternative to polyacrylate-based calcium carbonate antiscalants for low to moderate LSI cooling applications.",
+            "applications": [
+                "Calcium carbonate scale inhibition",
+                "Threshold inhibition and crystal modification",
+                "Zinc stabilization"
+            ],
+            "benefits": [
+                "Superior performance in cooling water formulations",
+                "FDA approval for non-contact cooling and retort waters",
+                "Halogen stability"
+            ],
+            "packaging": {
+                "drum": "528 lb / 240 kg",
+                "ibcs_totes": "2204 lb / 1000 kg"
+            },
+            "physical_properties": {
+                "appearance": "Clear to slightly turbid amber liquid",
+                "solids_content": "48% w/w",
+                "specific_gravity": "1.165 - 1.185 @ 20°C",
+                "ph": "<2",
+                "viscosity": "10 - 25 cSt @ 25°C",
+                "boiling_range": "100-102°C (212-215°F)",
+                "freezing_point": "-5 to -4°C (23-25°F)",
+                "solubility": "Miscible in water"
+            }
+        },
+        "keywords": [
+            "antiscalant",
+            "calcium carbonate",
+            "zinc stabilization",
+            "low to moderate LSI",
+            "cooling applications",
+            "FDA approved",
+            "halogen stability"
+        ]
+    },
+    {
+        "file": "BWA-Belclene-287-L.pdf",
+        "product_properties": {
+            "type": "Antiscalant",
+            "description": "Belclene 287 is designed for formulators seeking a highly effective alternative to polyacrylate-based calcium carbonate antiscalants for Kraft pulp operations.",
+            "applications": [
+                "Calcium carbonate scale inhibition in Kraft pulp digesters",
+                "Exceptional control of calcium carbonate and oxalate deposition",
+                "Improved liquor circulation rates"
+            ],
+            "benefits": [
+                "Reduced plant shutdowns for cleaning",
+                "Prolonged heater life and less corrosion"
+            ],
+            "packaging": {
+                "ibcs_totes": "2755 lb / 1250 kg"
+            },
+            "physical_properties": {
+                "appearance": "Clear liquid",
+                "solids_content": "37% w/w",
+                "specific_gravity": "1.26 - 1.3 @ 25°C",
+                "ph": "6.5 - 8.5",
+                "viscosity": "30-130 cP @ 25°C",
+                "boiling_range": "100-102°C (212-215°F)",
+                "freezing_point": "-2°C (28°F)",
+                "solubility": "Miscible in water"
+            }
+        },
+        "keywords": [
+            "antiscalant",
+            "calcium carbonate",
+            "oxalate deposition",
+            "Kraft pulp operations",
+            "liquor circulation",
+            "reduced plant shutdowns",
+            "corrosion control"
+        ]
+    },
+    {
+        "file": "BWA-Belclene-400-L.pdf",
+        "product_properties": {
+            "type": "Multifunctional Deposit Control Agent",
+            "description": "Belclene 400 provides flexibility in developing phosphonate-based corrosion control formulations for cooling water, process water, and similar applications.",
+            "applications": [
+                "Phosphate inhibition/dispersancy",
+                "Calcium phosphonate stabilization",
+                "Iron oxide dispersancy"
+            ],
+            "benefits": [
+                "Effective for general calcium phosphate and calcium carbonate fouling",
+                "Building block to improve the performance of various water treatment formulations"
+            ],
+            "packaging": {
+                "drum": "528 lb / 240 kg",
+                "ibcs_totes": "2650 lb / 1225 kg"
+            },
+            "physical_properties": {
+                "appearance": "Clear to pale yellow liquid",
+                "solids_content": "47-53% w/w",
+                "specific_gravity": "1.24 @ 20°C",
+                "ph": "2.5 @ 20°C",
+                "viscosity": "250 mm2/s @ 25°C",
+                "boiling_point_range": "103-105°C (217-221°F)",
+                "freezing_point": "-12 to -3°C (10-28°F)",
+                "theoretical_phosphorus_content": "<1%",
+                "solubility": "Miscible in water"
+            }
+        },
+        "keywords": [
+            "multifunctional deposit control agent",
+            "phosphate inhibition",
+            "calcium phosphonate stabilization",
+            "iron oxide dispersancy",
+            "corrosion control",
+            "cooling water"
+        ]
+    },
+    {
+        "file": "BWA-Belclene-440-L.pdf",
+        "product_properties": {
+            "type": "Multifunctional Deposit Control Agent",
+            "description": "Belclene 440 is a unique combination of polymer and phosphonate in one molecule, providing improved flexibility and cost-effectiveness for water treatment formulators.",
+            "applications": [
+                "Calcium carbonate scale control",
+                "Calcium phosphate scale control",
+                "Phosphonate stabilization"
+            ],
+            "benefits": [
+                "Multifunctional antiscalant",
+                "Effective iron oxide and particle dispersion",
+                "Corrosion inhibition properties"
+            ],
+            "packaging": {
+                "drum": "551 lb / 250 kg",
+                "ibcs_totes": "1250 kg"
+            },
+            "physical_properties": {
+                "appearance": "Clear to pale yellow liquid",
+                "solids_content": "40% w/w",
+                "specific_gravity": "1.20 @ 20/20°C",
+                "ph": "2 @ 20°C",
+                "boiling_range": "100-102°C (212-216°F)",
+                "solubility": "Ready soluble in water"
+            }
+        },
+        "keywords": [
+            "multifunctional deposit control agent",
+            "calcium carbonate scale control",
+            "calcium phosphate scale control",
+            "phosphonate stabilization",
+            "iron oxide dispersion"
+        ]
+    },
+    {
+        "file": "BWA-Belclene-460-L.pdf",
+        "product_properties": {
+            "type": "Antiscalant and Dispersant",
+            "description": "Belclene 460 is an aqueous, non-phosphorus, carboxylic copolymer offering excellent multifunctional properties for scale and corrosion water treatment programs.",
+            "applications": [
+                "Threshold inhibition and crystal modification",
+                "Stabilization of calcium phosphate and zinc",
+                "Calcium sulfate and oxalate scale prevention"
+            ],
+            "benefits": [
+                "Halogen stable, strong dispersant",
+                "Good thermal stability",
+                "Effective over a wide pH range"
+            ],
+            "packaging": {
+                "drum": "441 lb / 200 kg",
+                "ibcs_totes": "2535 lb / 1150 kg"
+            },
+            "physical_properties": {
+                "appearance": "Semi-viscous yellow to amber liquid",
+                "solids_content": "36-38% w/w",
+                "specific_gravity": "1.18 @ 20°C",
+                "ph": "4.5 @ 20°C",
+                "solubility": "Fully soluble in water"
+            }
+        },
+        "keywords": [
+            "antiscalant",
+            "dispersant",
+            "carboxylic copolymer",
+            "scale prevention",
+            "calcium phosphate stabilization",
+            "corrosion control"
+        ]
+    },
+    {
+        "file": "BWA-Belclene-500-L.pdf",
+        "product_properties": {
+            "type": "Corrosion Inhibitor",
+            "description": "Belclene 500 provides a highly effective mild steel corrosion inhibitor and a strong building block for zinc-based cooling water programs.",
+            "applications": [
+                "Building block for zinc-based corrosion inhibitor formulations",
+                "Effective in moderate hardness and soft waters",
+                "Halogen stability"
+            ],
+            "benefits": [
+                "Effective in presence of dissolved iron",
+                "Stable in any system water at any pH"
+            ],
+            "packaging": {
+                "drum": "475 lb / 215 kg"
+            },
+            "physical_properties": {
+                "appearance": "Clear or pale yellow liquid",
+                "solids_content": "35% w/w",
+                "specific_gravity": "1.17 @ 20°C",
+                "ph": "2.5 @ 20°C",
+                "viscosity": "10 mm2/s @ 25°C",
+                "boiling_range": "100-101°C (212-214°F)",
+                "freezing_point_range": "0 to -10°C (32-14°F)",
+                "solubility": "Miscible in water"
+            }
+        },
+        "keywords": [
+            "corrosion inhibitor",
+            "zinc-based",
+            "mild steel",
+            "cooling water",
+            "halogen stability",
+            "dissolved iron"
+        ]
+    },
+    {
+        "file": "BWA-Belclene-640-L.pdf",
+        "product_properties": {
+            "type": "Antiscalant and Corrosion Inhibitor",
+            "description": "Belclene 640 provides calcium carbonate and iron oxide deposit control for formulators who prefer phosphonate-based programs.",
+            "applications": [
+                "Calcium carbonate scale inhibition",
+                "Calcium sulfate inhibition",
+                "Iron oxide dispersancy"
+            ],
+            "benefits": [
+                "Good zinc and phosphate stabilization",
+                "Good mild steel corrosion protection",
+                "Inexpensive method to control deposition"
+            ],
+            "packaging": {
+                "drum": "573 lb / 260 kg",
+                "ibcs_totes": "2755 lb / 1250 kg"
+            },
+            "physical_properties": {
+                "appearance": "Clear colorless to yellow liquid",
+                "solids_content": "50% w/w",
+                "specific_gravity": "1.33 @ 20°C",
+                "ph": "<2.0",
+                "boiling_range": "101-103°C (213-217°F)",
+                "freezing_point": "<-15°C",
+                "solubility": "Ready soluble in water"
+            }
+        },
+        "keywords": [
+            "antiscalant",
+            "corrosion inhibitor",
+            "calcium carbonate inhibition",
+            "iron oxide dispersancy",
+            "phosphonate-based",
+            "zinc stabilization"
+        ]
+    },
+    {
+        "file": "DuPont-UF-IntegraTec-P-Series-PES-IO-MB-50-TR-L.pdf",
+        "product_properties": {
+            "type": "Pressurized UF Module",
+            "model": "IntegraTec MB 50 TR",
+            "key_features": [
+                "Proven Multibore™ PES fibers",
+                "High colloidal particulate, bacteria, and virus log removal rate",
+                "Optimized for integration in multi-element vessel configurations",
+                "Robust materials for long lifetime",
+                "Easy installation and low maintenance"
+            ],
+            "applications": [
+                "Municipal drinking water",
+                "Desalination RO pretreatment",
+                "Industrial utility water",
+                "Industrial wastewater reuse"
+            ],
+            "membrane_material": "PES",
+            "nominal_membrane_pore_size": "0.02 µm",
+            "active_membrane_area": "50 m²",
+            "dimensions": {
+                "length": "1,900 mm",
+                "diameter": "250 mm"
+            },
+            "weight": {
+                "empty": "46 kg",
+                "filled": "92 kg"
+            },
+            "operating_conditions": {
+                "temperature_range": "1 - 40 °C",
+                "operating_ph": "3 - 11",
+                "cleaning_ph": "1 - 13",
+                "filtration_tmp": "0.1 - 0.6 bar",
+                "backwash_tmp": "0.3 - 2.0 bar"
+            }
+        },
+        "keywords": [
+            "UF module",
+            "PES membrane",
+            "municipal water",
+            "industrial water",
+            "wastewater reuse",
+            "RO pretreatment"
+        ]
+    },
+    {
+        "file": "DuPont-UF-IntegraTec-P-Series-PES-IO-MB-55-L.pdf",
+        "product_properties": {
+            "type": "Pressurized UF Module",
+            "model": "IntegraTec MB 55",
+            "key_features": [
+                "Proven Multibore™ PES fibers",
+                "High colloidal particulate, bacteria, and virus log removal rate",
+                "Exceptional physical strength and chemical resistance",
+                "Optimized for open platform design",
+                "Easy installation and low maintenance"
+            ],
+            "applications": [
+                "Municipal drinking water",
+                "Desalination RO pretreatment",
+                "Industrial utility water"
+            ],
+            "membrane_material": "PES",
+            "nominal_membrane_pore_size": "0.02 µm",
+            "active_membrane_area": "55 m²",
+            "dimensions": {
+                "length": "1,537.5 mm",
+                "diameter": "220 mm"
+            },
+            "weight": {
+                "empty": "40 kg",
+                "filled": "87 kg"
+            },
+            "operating_conditions": {
+                "temperature_range": "1 - 40 °C",
+                "operating_ph": "3 - 11",
+                "cleaning_ph": "1 - 13",
+                "filtration_tmp": "0.1 - 0.6 bar",
+                "backwash_tmp": "0.3 - 2.0 bar"
+            }
+        },
+        "keywords": [
+            "UF module",
+            "PES membrane",
+            "municipal water",
+            "industrial water",
+            "desalination",
+            "RO pretreatment"
+        ]
+    },
+    {
+        "file": "DuPont-UF-IntegraTec-P-Series-PES-IO-MB-60-OP-L.pdf",
+        "product_properties": {
+            "type": "Pressurized UF Module",
+            "model": "IntegraTec MB 60",
+            "key_features": [
+                "Proven Multibore™ PES fibers",
+                "High colloidal particulate, bacteria, and virus log removal rate",
+                "Optimized for open platform design",
+                "Robust materials for long lifetime",
+                "Easy installation and low maintenance"
+            ],
+            "applications": [
+                "Municipal drinking water",
+                "Desalination RO pretreatment",
+                "Industrial water",
+                "Industrial wastewater reuse"
+            ],
+            "membrane_material": "PES",
+            "nominal_membrane_pore_size": "0.02 µm",
+            "active_membrane_area": "60 m²",
+            "dimensions": {
+                "length": "1,485 mm",
+                "diameter": "250 mm"
+            },
+            "weight": {
+                "empty": "46 kg",
+                "filled": "94 kg"
+            },
+            "operating_conditions": {
+                "temperature_range": "1 - 40 °C",
+                "operating_ph": "3 - 11",
+                "cleaning_ph": "1 - 13",
+                "filtration_tmp": "0.1 - 0.6 bar",
+                "backwash_tmp": "0.3 - 2.0 bar"
+            }
+        },
+        "keywords": [
+            "UF module",
+            "PES membrane",
+            "municipal water",
+            "industrial water",
+            "wastewater reuse",
+            "RO pretreatment"
+        ]
+    },
+    {
+        "file": "DuPont-UF-IntegraTec-P-Series-PES-IO-MB-60-TR-S-L.pdf",
+        "product_properties": {
+            "type": "Pressurized UF Module",
+            "model": "IntegraTec MB 60 TR S",
+            "key_features": [
+                "Proven Multibore™ PES fibers",
+                "High colloidal particulate, bacteria, and virus log removal rate",
+                "Innovative end-cap design for T-Rack™ S concept",
+                "Robust materials for long lifetime",
+                "Easy installation and low maintenance"
+            ],
+            "applications": [
+                "Municipal wastewater",
+                "Desalination RO pretreatment",
+                "Industrial utility water",
+                "Industrial wastewater reuse"
+            ],
+            "membrane_material": "PES",
+            "nominal_membrane_pore_size": "0.02 µm",
+            "active_membrane_area": "60 m²",
+            "dimensions": {
+                "length": "1,879 mm",
+                "diameter": "250 mm"
+            },
+            "weight": {
+                "empty": "61 kg",
+                "filled": "128 kg"
+            },
+            "operating_conditions": {
+                "temperature_range": "1 - 40 °C",
+                "operating_ph": "3 - 11",
+                "cleaning_ph": "1 - 13",
+                "filtration_tmp": "0.1 - 0.6 bar",
+                "backwash_tmp": "0.3 - 2.0 bar"
+            }
+        },
+        "keywords": [
+            "UF module",
+            "PES membrane",
+            "municipal wastewater",
+            "industrial water",
+            "wastewater reuse",
+            "RO pretreatment"
+        ]
+    },
+    {
+        "file": "DuPont-UF-IntegraTec-P-Series-PES-IO-MB-80-OP-L.pdf",
+        "product_properties": {
+            "type": "Pressurized UF Module",
+            "model": "IntegraTec MB 80",
+            "key_features": [
+                "Proven Multibore™ PES fibers",
+                "High colloidal particulate, bacteria, and virus log removal rate",
+                "Optimized for open platform design",
+                "Robust materials for long lifetime",
+                "Easy installation and low maintenance"
+            ],
+            "applications": [
+                "Municipal drinking water",
+                "Desalination RO pretreatment",
+                "Industrial utility water",
+                "Industrial wastewater reuse"
+            ],
+            "membrane_material": "PES",
+            "nominal_membrane_pore_size": "0.02 µm",
+            "active_membrane_area": "80 m²",
+            "dimensions": {
+                "length": "1,720 mm",
+                "diameter": "250 mm"
+            },
+            "weight": {
+                "empty": "58 kg",
+                "filled": "110 kg"
+            },
+            "operating_conditions": {
+                "temperature_range": "1 - 40 °C",
+                "operating_ph": "3 - 11",
+                "cleaning_ph": "1 - 13",
+                "filtration_tmp": "0.1 - 0.6 bar",
+                "backwash_tmp": "0.3 - 2.0 bar"
+            }
+        },
+        "keywords": [
+            "UF module",
+            "PES membrane",
+            "municipal water",
+            "industrial water",
+            "wastewater reuse",
+            "RO pretreatment"
+        ]
+    },
+    {
+        "file": "DuPont-UF-IntegraTec-P-Series-PES-IO-MB-80-TR-L.pdf",
+        "product_properties": {
+            "type": "Pressurized UF Module",
+            "model": "IntegraTec MB 80 TR",
+            "key_features": [
+                "Proven Multibore™ PES fibers",
+                "High colloidal particulate, bacteria, and virus log removal rate",
+                "Innovative end-cap design for T-Rack™ concept",
+                "Robust materials for long lifetime",
+                "Easy installation and low maintenance"
+            ],
+            "applications": [
+                "Municipal wastewater",
+                "Desalination RO pretreatment"
+            ],
+            "membrane_material": "PES",
+            "nominal_membrane_pore_size": "0.02 µm",
+            "active_membrane_area": "80 m²",
+            "dimensions": {
+                "length": "1,720 mm",
+                "diameter": "250 mm"
+            },
+            "weight": {
+                "empty": "58 kg",
+                "filled": "110 kg"
+            },
+            "operating_conditions": {
+                "temperature_range": "1 - 40 °C",
+                "operating_ph": "3 - 11",
+                "cleaning_ph": "1 - 13",
+                "filtration_tmp": "0.1 - 0.6 bar",
+                "backwash_tmp": "0.3 - 2.0 bar"
+            }
+        },
+        "keywords": [
+            "UF module",
+            "PES membrane",
+            "municipal wastewater",
+            "RO pretreatment",
+            "T-Rack",
+            "high recovery"
+        ]
+    },
+    {
+        "file": "DuPont-UF-IntegraTec-P-Series-PES-IO-MB-PRO-95-L.pdf",
+        "product_properties": {
+            "type": "Pressurized UF Module",
+            "model": "IntegraTec MB PRO 95",
+            "key_features": [
+                "Innovative Multibore™ PRO PES fibers",
+                "High colloidal particulate, bacteria, and virus log removal rate",
+                "Optimized for open platform design",
+                "Robust materials for long lifetime",
+                "Easy installation and low maintenance"
+            ],
+            "applications": [
+                "Municipal drinking water",
+                "Desalination RO pretreatment",
+                "Ideal for large systems"
+            ],
+            "membrane_material": "PES",
+            "nominal_membrane_pore_size": "0.02 µm",
+            "active_membrane_area": "95 m²",
+            "dimensions": {
+                "length": "1,720 mm",
+                "diameter": "250 mm"
+            },
+            "weight": {
+                "empty": "58 kg",
+                "filled": "110 kg"
+            },
+            "operating_conditions": {
+                "temperature_range": "1 - 40 °C",
+                "operating_ph": "3 - 11",
+                "cleaning_ph": "1 - 13",
+                "filtration_tmp": "0.1 - 0.6 bar",
+                "backwash_tmp": "0.3 - 2.0 bar"
+            }
+        },
+        "keywords": [
+            "UF module",
+            "PES membrane",
+            "municipal water",
+            "large systems",
+            "RO pretreatment"
+        ]
+    },
+    {
+        "file": "DuPont-UF-IntegraTec-P-Series-PVDF-OI-OG-50-L.pdf",
+        "product_properties": {
+            "type": "Pressurized UF Module",
+            "model": "IntegraTec OG-50",
+            "key_features": [
+                "Proven hydrophilic PVDF fiber",
+                "Superior chlorine resistance",
+                "High colloidal particulate, bacteria, and virus log removal rate",
+                "Optimized for integration in multi-element vessel configurations",
+                "Robust materials for long lifetime"
+            ],
+            "applications": [
+                "High pressure filtration in offshore oil feed water"
+            ],
+            "membrane_material": "PVDF",
+            "nominal_membrane_pore_size": "0.03 µm",
+            "active_membrane_area": "50 m²",
+            "dimensions": {
+                "length": "2,206 mm",
+                "diameter": "160 mm"
+            },
+            "weight": {
+                "empty": "25 kg",
+                "filled": "50 kg"
+            },
+            "operating_conditions": {
+                "temperature_range": "1 - 40 °C",
+                "operating_ph": "2 - 11",
+                "cleaning_ph": "2 - 12",
+                "filtration_tmp": "0.4 - 1.5 bar",
+                "backwash_tmp": "0.6 - 2.0 bar"
+            }
+        },
+        "keywords": [
+            "UF module",
+            "PVDF membrane",
+            "high pressure",
+            "offshore oil feed water",
+            "chlorine resistance"
+        ]
+    },
+    {
+        "file": "DuPont-UF-IntegraTec-P-Series-PVDF-OI-SFP-2660-OP-L.pdf",
+        "product_properties": {
+            "type": "Pressurized UF Module",
+            "model": "IntegraTec SFP-2660",
+            "key_features": [
+                "Proven hydrophilic PVDF fiber",
+                "Superior chlorine resistance",
+                "High colloidal particulate, bacteria, and virus log removal rate",
+                "Optimized for open platform design",
+                "Robust materials for long lifetime"
+            ],
+            "applications": [
+                "Industrial utility water",
+                "Industrial wastewater reuse",
+                "Municipal wastewater filtration",
+                "RO pretreatment"
+            ],
+            "membrane_material": "PVDF",
+            "nominal_membrane_pore_size": "0.03 µm",
+            "active_membrane_area": "33 m²",
+            "dimensions": {
+                "length": "1,835 mm",
+                "diameter": "165 mm"
+            },
+            "weight": {
+                "empty": "25 kg",
+                "filled": "41 kg"
+            },
+            "operating_conditions": {
+                "temperature_range": "1 - 40 °C",
+                "operating_ph": "2 - 11",
+                "cleaning_ph": "2 - 12",
+                "filtration_tmp": "0.4 - 1.5 bar",
+                "backwash_tmp": "0.6 - 2.0 bar"
+            }
+        },
+        "keywords": [
+            "UF module",
+            "PVDF membrane",
+            "industrial water",
+            "wastewater reuse",
+            "RO pretreatment"
+        ]
+    },
+    {
+        "file": "DuPont-UF-IntegraTec-P-Series-PVDF-OI-XP51-IP-IG-L.pdf",
+        "product_properties": {
+            "type": "Pressurized UF Module",
+            "model": "IntegraTec XP 51 IP IG",
+            "key_features": [
+                "Proven XP™ hydrophilic PVDF fiber",
+                "Superior fouling and chlorine resistance",
+                "High colloidal particulate, bacteria, and virus log removal rate",
+                "Optimized for rack solutions",
+                "Short module design for height restricted installations"
+            ],
+            "applications": [
+                "Municipal drinking water",
+                "Industrial utility water",
+                "Industrial wastewater reuse",
+                "Municipal wastewater filtration",
+                "RO pretreatment"
+            ],
+            "membrane_material": "PVDF",
+            "nominal_membrane_pore_size": "0.03 µm",
+            "active_membrane_area": "51 m²",
+            "dimensions": {
+                "length": "1,988 mm",
+                "diameter": "225 mm"
+            },
+            "weight": {
+                "empty": "53 kg",
+                "filled": "102 kg"
+            },
+            "operating_conditions": {
+                "temperature_range": "1 - 40 °C",
+                "operating_ph": "2 - 11",
+                "cleaning_ph": "2 - 12",
+                "filtration_tmp": "0.4 - 1.5 bar",
+                "backwash_tmp": "0.6 - 2.0 bar"
+            }
+        },
+        "keywords": [
+            "UF module",
+            "PVDF membrane",
+            "municipal water",
+            "industrial water",
+            "wastewater reuse",
+            "RO pretreatment",
+            "rack solutions"
+        ]
+    },
+    {
+        "file": "Grundfos-MMS_SKC-L.pdf",
+        "product_properties": {
+            "type": "Submersible Motor",
+            "model": "MMS",
+            "key_features": [
+                "Designed for long life under extreme operating conditions",
+                "Heavy-duty motor",
+                "Robust construction",
+                "Stainless steel design"
+            ],
+            "applications": [
+                "Water supply",
+                "Groundwater lowering",
+                "Pressure boosting",
+                "Irrigation"
+            ],
+            "specifications": {
+                "power_range": "0.37 to 250 kW",
+                "voltage_range": "380-415V, 50Hz",
+                "rated_speed": "2900 rpm",
+                "temperature_range": "0 to 40°C",
+                "protection_class": "IP68"
+            }
+        },
+        "keywords": [
+            "submersible motor",
+            "water supply",
+            "groundwater",
+            "pressure boosting",
+            "irrigation",
+            "stainless steel"
+        ]
+    },
+    {
+        "file": "Grundfos-MP1_SKC-L.pdf",
+        "product_properties": {
+            "type": "Pump",
+            "model": "MP1",
+            "key_features": [
+                "High efficiency",
+                "Robust and reliable design",
+                "Suitable for aggressive media",
+                "Flexible installation options"
+            ],
+            "applications": [
+                "Water treatment",
+                "Industrial applications",
+                "Groundwater control"
+            ],
+            "specifications": {
+                "flow_rate": "0.5 to 2.5 m³/h",
+                "head": "10 to 150 m",
+                "power_range": "0.55 to 1.5 kW",
+                "voltage_range": "220-240V, 50Hz",
+                "temperature_range": "0 to 60°C"
+            }
+        },
+        "keywords": [
+            "pump",
+            "water treatment",
+            "industrial applications",
+            "groundwater control",
+            "high efficiency"
+        ]
+    },
+    {
+        "file": "Grundfos-MQ_RMQ_SKC-L.pdf",
+        "product_properties": {
+            "type": "Booster Pump",
+            "model": "MQ/RMQ",
+            "key_features": [
+                "Compact and reliable",
+                "Integrated pressure tank",
+                "Built-in protection features",
+                "Easy to install and operate"
+            ],
+            "applications": [
+                "Domestic water supply",
+                "Light commercial applications",
+                "Pressure boosting"
+            ],
+            "specifications": {
+                "flow_rate": "1 to 4 m³/h",
+                "head": "15 to 45 m",
+                "power_range": "0.6 to 1.1 kW",
+                "voltage_range": "220-240V, 50Hz",
+                "temperature_range": "0 to 35°C"
+            }
+        },
+        "keywords": [
+            "booster pump",
+            "domestic water supply",
+            "pressure boosting",
+            "compact design",
+            "easy installation"
+        ]
+    },
+    {
+        "file": "Grundfos-MS_SKC-L.pdf",
+        "product_properties": {
+            "type": "Submersible Motor",
+            "model": "MS",
+            "key_features": [
+                "Stainless steel construction",
+                "High efficiency and reliability",
+                "Corrosion-resistant",
+                "Wide range of power outputs"
+            ],
+            "applications": [
+                "Water supply",
+                "Groundwater extraction",
+                "Irrigation systems"
+            ],
+            "specifications": {
+                "power_range": "0.37 to 30 kW",
+                "voltage_range": "220-240V, 380-415V, 50Hz",
+                "rated_speed": "2900 rpm",
+                "temperature_range": "0 to 40°C",
+                "protection_class": "IP68"
+            }
+        },
+        "keywords": [
+            "submersible motor",
+            "stainless steel",
+            "water supply",
+            "groundwater extraction",
+            "irrigation"
+        ]
+    },
+    {
+        "file": "Grundfos-MTA_MTAD_SKC-L.pdf",
+        "product_properties": {
+            "type": "Tank",
+            "model": "MTA/MTAD",
+            "key_features": [
+                "High-quality construction",
+                "Corrosion-resistant",
+                "Suitable for various media",
+                "Easy maintenance"
+            ],
+            "applications": [
+                "Storage tanks",
+                "Pressure tanks",
+                "Buffer tanks"
+            ],
+            "specifications": {
+                "capacity_range": "100 to 5000 liters",
+                "material": "Stainless steel",
+                "temperature_range": "0 to 100°C",
+                "pressure_rating": "10 bar"
+            }
+        },
+        "keywords": [
+            "tank",
+            "storage",
+            "pressure tank",
+            "buffer tank",
+            "corrosion-resistant"
+        ]
+    },
+    {
+        "file": "Grundfos-MTB-L.pdf",
+        "product_properties": {
+            "type": "Centrifugal Pump",
+            "model": "MTB",
+            "key_features": [
+                "Durable construction",
+                "High efficiency",
+                "Low maintenance",
+                "Wide range of applications"
+            ],
+            "applications": [
+                "Industrial processes",
+                "Cooling systems",
+                "Water treatment"
+            ],
+            "specifications": {
+                "flow_rate": "5 to 500 m³/h",
+                "head": "10 to 200 m",
+                "power_range": "0.75 to 75 kW",
+                "voltage_range": "220-240V, 380-415V, 50Hz",
+                "temperature_range": "0 to 90°C"
+            }
+        },
+        "keywords": [
+            "centrifugal pump",
+            "industrial processes",
+            "cooling systems",
+            "water treatment",
+            "high efficiency"
+        ]
+    },
+    {
+        "file": "Grundfos-MTH_MTC_SKC-L.pdf",
+        "product_properties": {
+            "type": "Centrifugal Pump",
+            "model": "MTH/MTC",
+            "key_features": [
+                "Compact design",
+                "High efficiency",
+                "Quiet operation",
+                "Easy to install"
+            ],
+            "applications": [
+                "Cooling and air conditioning systems",
+                "Industrial applications",
+                "Water supply"
+            ],
+            "specifications": {
+                "flow_rate": "0.5 to 5 m³/h",
+                "head": "5 to 50 m",
+                "power_range": "0.25 to 2.2 kW",
+                "voltage_range": "220-240V, 50Hz",
+                "temperature_range": "0 to 60°C"
+            }
+        },
+        "keywords": [
+            "centrifugal pump",
+            "cooling systems",
+            "air conditioning",
+            "industrial applications",
+            "quiet operation"
+        ]
+    },
+    {
+        "file": "Grundfos-MTR_SKC-L.pdf",
+        "product_properties": {
+            "type": "Multistage Pump",
+            "model": "MTR",
+            "key_features": [
+                "High pressure capabilities",
+                "Compact and robust design",
+                "Easy maintenance",
+                "Suitable for various liquids"
+            ],
+            "applications": [
+                "Boiler feed",
+                "Water supply",
+                "Industrial applications"
+            ],
+            "specifications": {
+                "flow_rate": "1 to 120 m³/h",
+                "head": "20 to 250 m",
+                "power_range": "0.37 to 75 kW",
+                "voltage_range": "220-240V, 380-415V, 50Hz",
+                "temperature_range": "0 to 100°C"
+            }
+        },
+        "keywords": [
+            "multistage pump",
+            "boiler feed",
+            "water supply",
+            "industrial applications",
+            "high pressure"
+        ]
+    },
+    {
+        "file": "Grundfos-MTS-L.pdf",
+        "product_properties": {
+            "type": "Bare Shaft Pump",
+            "model": "MTS",
+            "key_features": [
+                "Heavy-duty construction",
+                "High efficiency",
+                "Long service life",
+                "Easy to integrate into systems"
+            ],
+            "applications": [
+                "Industrial processes",
+                "Cooling systems",
+                "Water treatment"
+            ],
+            "specifications": {
+                "flow_rate": "10 to 600 m³/h",
+                "head": "10 to 100 m",
+                "power_range": "0.75 to 200 kW",
+                "voltage_range": "220-240V, 380-415V, 50Hz",
+                "temperature_range": "0 to 90°C"
+            }
+        },
+        "keywords": [
+            "bare shaft pump",
+            "industrial processes",
+            "cooling systems",
+            "water treatment",
+            "heavy-duty"
+        ]
+    },
+    {
+        "file": "Grundfos-Multilift_SKC-L.pdf",
+        "product_properties": {
+            "type": "Lifting Station",
+            "model": "Multilift",
+            "key_features": [
+                "Compact and robust design",
+                "Integrated pump system",
+                "Automatic operation",
+                "Easy installation and maintenance"
+            ],
+            "applications": [
+                "Sewage and wastewater lifting",
+                "Basement drainage",
+                "Commercial buildings"
+            ],
+            "specifications": {
+                "capacity_range": "50 to 500 liters",
+                "flow_rate": "1 to 20 m³/h",
+                "head": "5 to 20 m",
+                "power_range": "0.75 to 4 kW",
+                "voltage_range": "220-240V, 50Hz",
+                "temperature_range": "0 to 40°C"
+            }
+        },
+        "keywords": [
+            "lifting station",
+            "sewage lifting",
+            "wastewater lifting",
+            "basement drainage",
+            "compact design"
+        ]
+    }
+]
