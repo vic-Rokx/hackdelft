@@ -1,7 +1,7 @@
 [
     "Brand",
     "Type",
-    "Pore Size µ",
+    "Pore Size mu",
     "Max Temperature °C",
     "Max Temperature °F",
     "Adapter 1",
@@ -81,7 +81,7 @@
     "Replaced Part Number",
     "Remarks",
     "Average MgSO4l rejection percentage",
-    "Membrane Thickness µm",
+    "Membrane Thickness mum",
     "Ion Exchange Capacity meq/g",
     "Water Transfer ml/F",
     "Sucrose Transfer g/F",

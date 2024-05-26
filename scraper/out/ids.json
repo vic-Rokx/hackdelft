@@ -1,7 +1,7 @@
 [
     "brand",
     "type",
-    "pore_size_µ",
+    "pore_size_mu",
     "max_temperature_c",
     "max_temperature_f",
     "adapter_1",
@@ -81,7 +81,7 @@
     "replaced_part_number",
     "remarks",
     "average_mgso4l_rejection_percentage",
-    "membrane_thickness_µm",
+    "membrane_thickness_mum",
     "ion_exchange_capacity_meq_g",
     "water_transfer_ml_f",
     "sucrose_transfer_g_f",

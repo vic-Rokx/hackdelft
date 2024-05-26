@@ -1,6 +1,7 @@
 import fs from "fs"
 import { fromDir, parseProduct, product } from "./util"
 import { productIsValid, urlRoot } from "./provider";
+import { populateDB } from "./db";
 
 const parsedProducts: product[] = [];
 const fields: Set<string> = new Set<string>();
@@ -17,3 +18,5 @@ fromDir("./products", "index.html", addProduct);
 
 fs.writeFileSync("products.json", JSON.stringify(parsedProducts));
 fs.writeFileSync("fields.json", JSON.stringify(Array.from(fields)));
+
+populateDB(parsedProducts);
